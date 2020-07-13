@@ -70,10 +70,10 @@
          Training: not SET_i train-s2648-test-ptmul.tsv  -> Test: SET_i ptmul-5fold.tsv
 
 
-# Clustering
+## Clustering
 
-- The file data/cluster-545-pdbchains.txt contains 132 clusters of 545 PDB chains.
-  The clustering is obtained using blastclust with the options -S 25 -L 0.5 -b F.
+The file data/cluster-545-pdbchains.txt contains 132 clusters of 545 PDB chains. 
+The clustering is obtained using blastclust with the options -S 25 -L 0.5 -b F.
 
 
 ## Testing
