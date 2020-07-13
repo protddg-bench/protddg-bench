@@ -78,13 +78,13 @@
 
 ## Testing
 
-- To test your method you need to:
-  1) replace the file scripts/predict-ddg-value.py with your own script that runs taking 
+To test your method you need to:
+  1. replace the file scripts/predict-ddg-value.py with your own script that runs taking 
      in input only the testing and training files and returning in standard output 
      the experimental and the predicted ddgs respectively
      The program runs as follows:
         predict-ddg-value.py test_file.txt train_file.txt
-  2) Generate an inputfile containing a two columns representing the PDB chain 
+  2. Generate an inputfile containing a two columns representing the PDB chain 
      identifier and the mutation followed by all the inputfeatures.
      The full list of mutations are reported in the file data/unique-mutations-input.txt
      and example of input file with two input features is data/ifeatures-KYTJ820101-BASU050101.txt.
