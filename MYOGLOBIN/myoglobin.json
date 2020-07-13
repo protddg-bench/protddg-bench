@@ -1,0 +1,940 @@
+[
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A4E", 
+    "DDG": "0.35"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "F7W", 
+    "DDG": "0.90"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A8Q", 
+    "DDG": "0.89"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "G8Q", 
+    "DDG": "-0.50"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A9L", 
+    "DDG": "0.41"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A11L", 
+    "DDG": "0.44"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A11L", 
+    "DDG": "0.60"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A13V", 
+    "DDG": "0.00"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A13V", 
+    "DDG": "0.67"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "F14W", 
+    "DDG": "1.10"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "L15A", 
+    "DDG": "-0.10"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A18E", 
+    "DDG": "0.95"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A20D", 
+    "DDG": "0.50"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A23G", 
+    "DDG": "1.12"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "V24H", 
+    "DDG": "0.52"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A28I", 
+    "DDG": "0.53"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A28I", 
+    "DDG": "1.33"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A28I", 
+    "DDG": "2.06"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "F28I", 
+    "DDG": "0.28"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "L28I", 
+    "DDG": "0.55"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "M28I", 
+    "DDG": "0.56"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "V28I", 
+    "DDG": "-0.04"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A29L", 
+    "DDG": "0.39"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A29L", 
+    "DDG": "2.37"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "F29L", 
+    "DDG": "0.13"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "I29L", 
+    "DDG": "1.12"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "M29L", 
+    "DDG": "-0.12"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "N29L", 
+    "DDG": "5.59"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "V29L", 
+    "DDG": "1.72"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A30I", 
+    "DDG": "1.90"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A32L", 
+    "DDG": "0.47"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A32L", 
+    "DDG": "2.04"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "F32L", 
+    "DDG": "0.07"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "W32L", 
+    "DDG": "0.53"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "Q36H", 
+    "DDG": "0.80"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "Q36H", 
+    "DDG": "1.30"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "I43F", 
+    "DDG": "0.89"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "V43F", 
+    "DDG": "2.66"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A44D", 
+    "DDG": "-0.25"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "Q48H", 
+    "DDG": "0.62"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "I49L", 
+    "DDG": "0.80"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A51T", 
+    "DDG": "1.41"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A56K", 
+    "DDG": "0.35"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A60D", 
+    "DDG": "0.15"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A64H", 
+    "DDG": "-0.49"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A64H", 
+    "DDG": "-0.58"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "F64H", 
+    "DDG": "-0.81"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "F64H", 
+    "DDG": "-1.51"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "G64H", 
+    "DDG": "0.04"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "I64H", 
+    "DDG": "-0.38"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "L64H", 
+    "DDG": "-0.61"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "L64H", 
+    "DDG": "-1.05"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "N64H", 
+    "DDG": "0.33"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "Q64H", 
+    "DDG": "-0.02"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "Q64H", 
+    "DDG": "0.45"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "Q64H", 
+    "DDG": "0.54"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "R64H", 
+    "DDG": "0.08"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "T64H", 
+    "DDG": "-0.23"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "V64H", 
+    "DDG": "-0.36"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "W64H", 
+    "DDG": "-0.47"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "Y64H", 
+    "DDG": "-0.52"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A66V", 
+    "DDG": "-0.75"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A67T", 
+    "DDG": "0.26"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "F67T", 
+    "DDG": "-0.19"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "P67T", 
+    "DDG": "0.85"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "Q67T", 
+    "DDG": "-0.23"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A68V", 
+    "DDG": "0.60"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A68V", 
+    "DDG": "0.93"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "F68V", 
+    "DDG": "-0.38"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "F68V", 
+    "DDG": "-0.82"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "I68V", 
+    "DDG": "-0.35"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "L68V", 
+    "DDG": "-0.42"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "N68V", 
+    "DDG": "3.81"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "Q68V", 
+    "DDG": "2.42"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "S68V", 
+    "DDG": "2.99"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "T68V", 
+    "DDG": "0.57"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "T68V", 
+    "DDG": "0.60"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "T68V", 
+    "DDG": "1.67"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "W68V", 
+    "DDG": "0.07"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "Y68V", 
+    "DDG": "0.17"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A69L", 
+    "DDG": "1.18"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "I69L", 
+    "DDG": "0.02"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "M69L", 
+    "DDG": "0.00"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "V69L", 
+    "DDG": "0.10"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A77K", 
+    "DDG": "-0.20"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "Q82H", 
+    "DDG": "0.05"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A88P", 
+    "DDG": "-0.59"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "G93H", 
+    "DDG": "-0.04"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "Q97H", 
+    "DDG": "0.11"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A106F", 
+    "DDG": "0.70"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A107I", 
+    "DDG": "0.43"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "F107I", 
+    "DDG": "-0.12"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "F107I", 
+    "DDG": "-0.58"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "T107I", 
+    "DDG": "2.23"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "V107I", 
+    "DDG": "1.09"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A109E", 
+    "DDG": "0.17"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "G109E", 
+    "DDG": "-0.89"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A111I", 
+    "DDG": "1.84"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "L111I", 
+    "DDG": "0.64"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "M111I", 
+    "DDG": "1.14"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "Q113H", 
+    "DDG": "0.26"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A114V", 
+    "DDG": "1.45"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A115L", 
+    "DDG": "1.40"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A116H", 
+    "DDG": "-0.16"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A117S", 
+    "DDG": "0.26"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A118R", 
+    "DDG": "0.65"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "F119H", 
+    "DDG": "0.68"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A122D", 
+    "DDG": "0.10"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A123F", 
+    "DDG": "1.10"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "K123F", 
+    "DDG": "2.10"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "T123F", 
+    "DDG": "3.50"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "L125A", 
+    "DDG": "-0.60"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A129G", 
+    "DDG": "-1.05"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "K130A", 
+    "DDG": "2.10"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "K130A", 
+    "DDG": "3.70"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "L130A", 
+    "DDG": "0.90"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "L130A", 
+    "DDG": "2.30"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A131M", 
+    "DDG": "2.20"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A133K", 
+    "DDG": "0.05"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A135L", 
+    "DDG": "1.70"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "I135L", 
+    "DDG": "1.54"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "M135L", 
+    "DDG": "0.79"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "V135L", 
+    "DDG": "2.25"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A137L", 
+    "DDG": "0.30"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A137L", 
+    "DDG": "1.78"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A139R", 
+    "DDG": "0.45"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A140K", 
+    "DDG": "0.35"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A142I", 
+    "DDG": "1.10"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A142I", 
+    "DDG": "1.92"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "L142I", 
+    "DDG": "-0.63"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "M142I", 
+    "DDG": "-0.93"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "V142I", 
+    "DDG": "0.12"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "L144A", 
+    "DDG": "-0.40"
+  }, 
+  {
+    "SET": "TEST_MYO", 
+    "CLUID": "1BVCA", 
+    "PDB": "1BZ6A", 
+    "MUT": "A149L", 
+    "DDG": "1.60"
+  }
+]

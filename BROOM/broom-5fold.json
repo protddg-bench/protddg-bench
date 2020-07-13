@@ -1,0 +1,5591 @@
+[
+  {
+    "SET": "SET_0", 
+    "CLID": "1A5EA", 
+    "PDB": "1IHBA", 
+    "MUT": "F37H", 
+    "DDG": "-1.24", 
+    "pH": "7.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1A5EA", 
+    "PDB": "1IHBA", 
+    "MUT": "R55V", 
+    "DDG": "-0.32", 
+    "pH": "7.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1A5EA", 
+    "PDB": "1IHBA", 
+    "MUT": "F71N", 
+    "DDG": "0.71", 
+    "pH": "7.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1A5EA", 
+    "PDB": "1IHBA", 
+    "MUT": "F82Q", 
+    "DDG": "-0.46", 
+    "pH": "7.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1A5EA", 
+    "PDB": "1IHBA", 
+    "MUT": "F92N", 
+    "DDG": "-1.08", 
+    "pH": "7.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1AARA", 
+    "PDB": "1AARA", 
+    "MUT": "F45W", 
+    "DDG": "0.60", 
+    "pH": "5.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1AARA", 
+    "PDB": "1UBQA", 
+    "MUT": "V26A", 
+    "DDG": "-3.30", 
+    "pH": "5.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1AARA", 
+    "PDB": "1UBQA", 
+    "MUT": "V26G", 
+    "DDG": "-6.30", 
+    "pH": "5.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1AARA", 
+    "PDB": "1UBQA", 
+    "MUT": "V26I", 
+    "DDG": "1.10", 
+    "pH": "5.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1AARA", 
+    "PDB": "1UBQA", 
+    "MUT": "V26L", 
+    "DDG": "0.30", 
+    "pH": "5.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1BPIA", 
+    "PDB": "1BPIA", 
+    "MUT": "P13A", 
+    "DDG": "-1.60", 
+    "pH": "8.70", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1BPIA", 
+    "PDB": "1BPIA", 
+    "MUT": "P13S", 
+    "DDG": "-1.40", 
+    "pH": "8.70", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1BPIA", 
+    "PDB": "1BPIA", 
+    "MUT": "A16T", 
+    "DDG": "-1.70", 
+    "pH": "8.70", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1BPIA", 
+    "PDB": "1BPIA", 
+    "MUT": "A16V", 
+    "DDG": "-1.30", 
+    "pH": "8.70", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1BPIA", 
+    "PDB": "1BPIA", 
+    "MUT": "Y35D", 
+    "DDG": "-3.80", 
+    "pH": "8.70", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1BPIA", 
+    "PDB": "1BPIA", 
+    "MUT": "Y35L", 
+    "DDG": "-3.70", 
+    "pH": "8.70", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1BTAA", 
+    "PDB": "1BTAA", 
+    "MUT": "K22Q", 
+    "DDG": "-0.80", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1BTAA", 
+    "PDB": "1BTAA", 
+    "MUT": "K60E", 
+    "DDG": "-1.35", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1BTAA", 
+    "PDB": "1BTAA", 
+    "MUT": "R75L", 
+    "DDG": "0.70", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1C5GA", 
+    "PDB": "1QLPA", 
+    "MUT": "A31L", 
+    "DDG": "0.90", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1C5GA", 
+    "PDB": "1QLPA", 
+    "MUT": "A31P", 
+    "DDG": "2.50", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1C5GA", 
+    "PDB": "1QLPA", 
+    "MUT": "V55I", 
+    "DDG": "-0.20", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1C5GA", 
+    "PDB": "1QLPA", 
+    "MUT": "A70G", 
+    "DDG": "1.60", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1C5GA", 
+    "PDB": "1QLPA", 
+    "MUT": "A183I", 
+    "DDG": "1.80", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1C5GA", 
+    "PDB": "1QLPA", 
+    "MUT": "A183V", 
+    "DDG": "3.80", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1C5GA", 
+    "PDB": "1QLPA", 
+    "MUT": "A248F", 
+    "DDG": "1.80", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1C5GA", 
+    "PDB": "1QLPA", 
+    "MUT": "A248I", 
+    "DDG": "2.20", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1C5GA", 
+    "PDB": "1QLPA", 
+    "MUT": "A248L", 
+    "DDG": "1.50", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1C5GA", 
+    "PDB": "1QLPA", 
+    "MUT": "A248V", 
+    "DDG": "2.30", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1C5GA", 
+    "PDB": "1QLPA", 
+    "MUT": "A284I", 
+    "DDG": "0.00", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1C5GA", 
+    "PDB": "1QLPA", 
+    "MUT": "A284L", 
+    "DDG": "-0.80", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1C5GA", 
+    "PDB": "1QLPA", 
+    "MUT": "A284V", 
+    "DDG": "0.80", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1C5GA", 
+    "PDB": "1QLPA", 
+    "MUT": "V321I", 
+    "DDG": "0.60", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1C5GA", 
+    "PDB": "1QLPA", 
+    "MUT": "V364L", 
+    "DDG": "-0.30", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1C5GA", 
+    "PDB": "1QLPA", 
+    "MUT": "M374I", 
+    "DDG": "2.30", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1C5GA", 
+    "PDB": "1QLPA", 
+    "MUT": "S381A", 
+    "DDG": "1.00", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1CEYA", 
+    "PDB": "1CEYA", 
+    "MUT": "F14N", 
+    "DDG": "2.90", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1CEYA", 
+    "PDB": "1CEYA", 
+    "MUT": "A77G", 
+    "DDG": "-0.30", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1CEYA", 
+    "PDB": "1CEYA", 
+    "MUT": "A80G", 
+    "DDG": "0.60", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1CEYA", 
+    "PDB": "1CEYA", 
+    "MUT": "A88G", 
+    "DDG": "0.10", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1E65A", 
+    "PDB": "5AZUA", 
+    "MUT": "I7S", 
+    "DDG": "-3.00", 
+    "pH": "7.20", 
+    "T": "20.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1E65A", 
+    "PDB": "5AZUA", 
+    "MUT": "V60G", 
+    "DDG": "-3.11", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1E65A", 
+    "PDB": "5AZUA", 
+    "MUT": "A82G", 
+    "DDG": "-3.11", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1HNGA", 
+    "PDB": "1HNGA", 
+    "MUT": "L16V", 
+    "DDG": "-2.20", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-99"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1HNGA", 
+    "PDB": "1HNGA", 
+    "MUT": "I18V", 
+    "DDG": "-1.17", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-99"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1HNGA", 
+    "PDB": "1HNGA", 
+    "MUT": "V30A", 
+    "DDG": "-4.88", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-99"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1HNGA", 
+    "PDB": "1HNGA", 
+    "MUT": "A40G", 
+    "DDG": "-1.71", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-99"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1HNGA", 
+    "PDB": "1HNGA", 
+    "MUT": "L50V", 
+    "DDG": "0.37", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-99"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1HNGA", 
+    "PDB": "1HNGA", 
+    "MUT": "I57V", 
+    "DDG": "-0.43", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-99"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1HNGA", 
+    "PDB": "1HNGA", 
+    "MUT": "Y76F", 
+    "DDG": "-1.49", 
+    "pH": "5.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-99"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1HNGA", 
+    "PDB": "1HNGA", 
+    "MUT": "V78A", 
+    "DDG": "-3.01", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-99"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1HNGA", 
+    "PDB": "1HNGA", 
+    "MUT": "L89V", 
+    "DDG": "-0.14", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-99"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1HNGA", 
+    "PDB": "1HNGA", 
+    "MUT": "L95V", 
+    "DDG": "-0.75", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-99"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1IETA", 
+    "PDB": "1B5MA", 
+    "MUT": "D60R", 
+    "DDG": "0.14", 
+    "pH": "7.20", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1IETA", 
+    "PDB": "1B5MA", 
+    "MUT": "P81A", 
+    "DDG": "-1.51", 
+    "pH": "7.20", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1IETA", 
+    "PDB": "1CYOA", 
+    "MUT": "S71L", 
+    "DDG": "0.80", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1IOBA", 
+    "PDB": "1IOBA", 
+    "MUT": "R4P", 
+    "DDG": "-0.40", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1IOBA", 
+    "PDB": "1IOBA", 
+    "MUT": "R4Q", 
+    "DDG": "-1.00", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1IOBA", 
+    "PDB": "1IOBA", 
+    "MUT": "L6A", 
+    "DDG": "-3.10", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1IOBA", 
+    "PDB": "1IOBA", 
+    "MUT": "N7D", 
+    "DDG": "0.43", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1IOBA", 
+    "PDB": "1IOBA", 
+    "MUT": "N7G", 
+    "DDG": "-2.60", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1IOBA", 
+    "PDB": "1IOBA", 
+    "MUT": "C8A", 
+    "DDG": "-2.52", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1IOBA", 
+    "PDB": "1IOBA", 
+    "MUT": "C8S", 
+    "DDG": "-4.80", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1IOBA", 
+    "PDB": "1IOBA", 
+    "MUT": "L10A", 
+    "DDG": "-5.10", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1PGAA", 
+    "PDB": "1PGAA", 
+    "MUT": "T2P", 
+    "DDG": "-2.70", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1PGAA", 
+    "PDB": "1PGAA", 
+    "MUT": "I6N", 
+    "DDG": "-1.53", 
+    "pH": "5.20", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1PGAA", 
+    "PDB": "1PGAA", 
+    "MUT": "I6T", 
+    "DDG": "-1.60", 
+    "pH": "5.20", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1PGAA", 
+    "PDB": "1PGAA", 
+    "MUT": "G9P", 
+    "DDG": "-2.40", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1PGAA", 
+    "PDB": "1PGAA", 
+    "MUT": "K10P", 
+    "DDG": "-0.20", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1PGAA", 
+    "PDB": "1PGAA", 
+    "MUT": "V21P", 
+    "DDG": "0.50", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1PGAA", 
+    "PDB": "1PGAA", 
+    "MUT": "A23P", 
+    "DDG": "-0.30", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1PGAA", 
+    "PDB": "1PGAA", 
+    "MUT": "A24P", 
+    "DDG": "-0.50", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1PGAA", 
+    "PDB": "1PGAA", 
+    "MUT": "T25P", 
+    "DDG": "-2.80", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1PGAA", 
+    "PDB": "1PGAA", 
+    "MUT": "A26P", 
+    "DDG": "-3.40", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1PGAA", 
+    "PDB": "1PGAA", 
+    "MUT": "V29P", 
+    "DDG": "-3.50", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1PGAA", 
+    "PDB": "1PGAA", 
+    "MUT": "D36P", 
+    "DDG": "-3.10", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1PGAA", 
+    "PDB": "1PGAA", 
+    "MUT": "A48P", 
+    "DDG": "-0.70", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1PGAA", 
+    "PDB": "1PGAA", 
+    "MUT": "T51S", 
+    "DDG": "-3.40", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1PGAA", 
+    "PDB": "1PGAA", 
+    "MUT": "T53F", 
+    "DDG": "1.01", 
+    "pH": "5.20", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1PGAA", 
+    "PDB": "1PGAA", 
+    "MUT": "T53I", 
+    "DDG": "0.10", 
+    "pH": "5.20", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1PGAA", 
+    "PDB": "1PGAA", 
+    "MUT": "T53V", 
+    "DDG": "-0.80", 
+    "pH": "5.20", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1PGAA", 
+    "PDB": "1PGAA", 
+    "MUT": "T53Y", 
+    "DDG": "0.50", 
+    "pH": "5.20", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1RTBA", 
+    "PDB": "1RTBA", 
+    "MUT": "F46A", 
+    "DDG": "-6.36", 
+    "pH": "6.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1RTBA", 
+    "PDB": "1RTBA", 
+    "MUT": "F46V", 
+    "DDG": "-4.54", 
+    "pH": "6.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1SHFA", 
+    "PDB": "1SHFA", 
+    "MUT": "E107F", 
+    "DDG": "-1.63", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1SHFA", 
+    "PDB": "1SHFA", 
+    "MUT": "E107H", 
+    "DDG": "-0.99", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1SHFA", 
+    "PDB": "1SHFA", 
+    "MUT": "E107K", 
+    "DDG": "-0.97", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1SHFA", 
+    "PDB": "1SHFA", 
+    "MUT": "E107L", 
+    "DDG": "-2.87", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1SHFA", 
+    "PDB": "1SHFA", 
+    "MUT": "E107P", 
+    "DDG": "-1.71", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1SHFA", 
+    "PDB": "1SHFA", 
+    "MUT": "E107Y", 
+    "DDG": "-2.40", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1SHFA", 
+    "PDB": "1SHFA", 
+    "MUT": "S124D", 
+    "DDG": "-2.02", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1SHFA", 
+    "PDB": "1SHFA", 
+    "MUT": "S124F", 
+    "DDG": "-1.90", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1SHFA", 
+    "PDB": "1SHFA", 
+    "MUT": "S124G", 
+    "DDG": "-1.68", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1SHFA", 
+    "PDB": "1SHFA", 
+    "MUT": "S124H", 
+    "DDG": "-1.25", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1SHFA", 
+    "PDB": "1SHFA", 
+    "MUT": "S124L", 
+    "DDG": "-0.37", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1SHFA", 
+    "PDB": "1SHFA", 
+    "MUT": "S124N", 
+    "DDG": "-0.73", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1SHFA", 
+    "PDB": "1SHFA", 
+    "MUT": "G128A", 
+    "DDG": "-1.84", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1UWOA", 
+    "PDB": "1IGVA", 
+    "MUT": "Y13F", 
+    "DDG": "-1.19", 
+    "pH": "7.10", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1UWOA", 
+    "PDB": "1IGVA", 
+    "MUT": "P20G", 
+    "DDG": "-1.19", 
+    "pH": "7.10", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1UWOA", 
+    "PDB": "1IGVA", 
+    "MUT": "F66W", 
+    "DDG": "-2.34", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "1UWOA", 
+    "PDB": "1IGVA", 
+    "MUT": "V70L", 
+    "DDG": "-1.20", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "2RN2A", 
+    "PDB": "2RN2A", 
+    "MUT": "D10A", 
+    "DDG": "3.30", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "2RN2A", 
+    "PDB": "2RN2A", 
+    "MUT": "R27A", 
+    "DDG": "-2.20", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "2RN2A", 
+    "PDB": "2RN2A", 
+    "MUT": "I53A", 
+    "DDG": "-2.10", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "2RN2A", 
+    "PDB": "2RN2A", 
+    "MUT": "H62A", 
+    "DDG": "0.37", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "2RN2A", 
+    "PDB": "2RN2A", 
+    "MUT": "H62P", 
+    "DDG": "0.74", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "2RN2A", 
+    "PDB": "2RN2A", 
+    "MUT": "S68A", 
+    "DDG": "0.19", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "2RN2A", 
+    "PDB": "2RN2A", 
+    "MUT": "S68G", 
+    "DDG": "-2.20", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "2RN2A", 
+    "PDB": "2RN2A", 
+    "MUT": "S68L", 
+    "DDG": "-1.00", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "2RN2A", 
+    "PDB": "2RN2A", 
+    "MUT": "S68T", 
+    "DDG": "0.10", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "2RN2A", 
+    "PDB": "2RN2A", 
+    "MUT": "S68V", 
+    "DDG": "1.29", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "2RN2A", 
+    "PDB": "2RN2A", 
+    "MUT": "H83A", 
+    "DDG": "0.11", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_0", 
+    "CLID": "2RN2A", 
+    "PDB": "2RN2A", 
+    "MUT": "Q105G", 
+    "DDG": "-2.20", 
+    "pH": "5.50", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1APSA", 
+    "PDB": "1APSA", 
+    "MUT": "E29D", 
+    "DDG": "-3.47", 
+    "pH": "5.50", 
+    "T": "28.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1APSA", 
+    "PDB": "1APSA", 
+    "MUT": "P54A", 
+    "DDG": "-0.45", 
+    "pH": "5.50", 
+    "T": "28.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1APSA", 
+    "PDB": "1APSA", 
+    "MUT": "M61A", 
+    "DDG": "-3.97", 
+    "pH": "5.50", 
+    "T": "28.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1APSA", 
+    "PDB": "1APSA", 
+    "MUT": "L65V", 
+    "DDG": "-5.35", 
+    "pH": "5.50", 
+    "T": "28.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1APSA", 
+    "PDB": "1APSA", 
+    "MUT": "P71A", 
+    "DDG": "-1.60", 
+    "pH": "5.50", 
+    "T": "28.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1APSA", 
+    "PDB": "1APSA", 
+    "MUT": "I75V", 
+    "DDG": "-1.41", 
+    "pH": "5.50", 
+    "T": "28.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1APSA", 
+    "PDB": "1APSA", 
+    "MUT": "F94L", 
+    "DDG": "-4.33", 
+    "pH": "5.50", 
+    "T": "28.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1BNIA", 
+    "PDB": "1BNIA", 
+    "MUT": "D12A", 
+    "DDG": "1.10", 
+    "pH": "6.30", 
+    "T": "25.00", 
+    "COMMENT": "H102A_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1BNIA", 
+    "PDB": "1BNIA", 
+    "MUT": "D12G", 
+    "DDG": "-1.20", 
+    "pH": "6.30", 
+    "T": "25.00", 
+    "COMMENT": "H102A_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1BNIA", 
+    "PDB": "1BNIA", 
+    "MUT": "Y13G", 
+    "DDG": "-6.40", 
+    "pH": "6.30", 
+    "T": "25.00", 
+    "COMMENT": "H102A_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1BNIA", 
+    "PDB": "1BNIA", 
+    "MUT": "Q15A", 
+    "DDG": "-0.20", 
+    "pH": "6.30", 
+    "T": "25.00", 
+    "COMMENT": "H102A_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1BNIA", 
+    "PDB": "1BNIA", 
+    "MUT": "Q15G", 
+    "DDG": "-1.60", 
+    "pH": "6.30", 
+    "T": "25.00", 
+    "COMMENT": "H102A_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1BNIA", 
+    "PDB": "1BNIA", 
+    "MUT": "Y17G", 
+    "DDG": "-4.90", 
+    "pH": "6.30", 
+    "T": "25.00", 
+    "COMMENT": "H102A_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1BNIA", 
+    "PDB": "1BNIA", 
+    "MUT": "K27A", 
+    "DDG": "0.45", 
+    "pH": "6.30", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1BNIA", 
+    "PDB": "1BNIA", 
+    "MUT": "I55G", 
+    "DDG": "-3.10", 
+    "pH": "6.30", 
+    "T": "25.00", 
+    "COMMENT": "H102A_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1BNIA", 
+    "PDB": "1BNIA", 
+    "MUT": "R59A", 
+    "DDG": "0.64", 
+    "pH": "6.30", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1BNIA", 
+    "PDB": "1BNIA", 
+    "MUT": "R72G", 
+    "DDG": "-2.50", 
+    "pH": "6.30", 
+    "T": "25.00", 
+    "COMMENT": "H102A_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1BNIA", 
+    "PDB": "1BNIA", 
+    "MUT": "E73G", 
+    "DDG": "-5.40", 
+    "pH": "6.30", 
+    "T": "25.00", 
+    "COMMENT": "H102A_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1BNIA", 
+    "PDB": "1BNIA", 
+    "MUT": "I76T", 
+    "DDG": "-2.69", 
+    "pH": "6.30", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1BNIA", 
+    "PDB": "1BNIA", 
+    "MUT": "I88G", 
+    "DDG": "-7.40", 
+    "pH": "6.30", 
+    "T": "25.00", 
+    "COMMENT": "H102A_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1BNIA", 
+    "PDB": "1BNIA", 
+    "MUT": "L89G", 
+    "DDG": "-7.00", 
+    "pH": "6.30", 
+    "T": "25.00", 
+    "COMMENT": "H102A_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1BNIA", 
+    "PDB": "1BNIA", 
+    "MUT": "L95G", 
+    "DDG": "-4.70", 
+    "pH": "6.30", 
+    "T": "25.00", 
+    "COMMENT": "H102A_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1BNIA", 
+    "PDB": "1BNIA", 
+    "MUT": "I96G", 
+    "DDG": "-5.70", 
+    "pH": "6.30", 
+    "T": "25.00", 
+    "COMMENT": "H102A_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1BNIA", 
+    "PDB": "1BNIA", 
+    "MUT": "Y97G", 
+    "DDG": "-6.60", 
+    "pH": "6.30", 
+    "T": "25.00", 
+    "COMMENT": "H102A_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1BNIA", 
+    "PDB": "1BNIA", 
+    "MUT": "T100G", 
+    "DDG": "-2.80", 
+    "pH": "6.30", 
+    "T": "25.00", 
+    "COMMENT": "H102A_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "H10A", 
+    "DDG": "0.50", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "I23A", 
+    "DDG": "-3.65", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "E25A", 
+    "DDG": "0.10", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "K26A", 
+    "DDG": "0.00", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "V30A", 
+    "DDG": "-0.20", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "T40A", 
+    "DDG": "0.30", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "V42A", 
+    "DDG": "-0.40", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "N44G", 
+    "DDG": "-0.40", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "L45A", 
+    "DDG": "-0.20", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "K47A", 
+    "DDG": "0.40", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "K47G", 
+    "DDG": "-0.50", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "P61A", 
+    "DDG": "0.40", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "I84A", 
+    "DDG": "-2.00", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "Q86A", 
+    "DDG": "0.00", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "Q86G", 
+    "DDG": "-1.30", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "L88A", 
+    "DDG": "-2.80", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "D93A", 
+    "DDG": "0.70", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "D93G", 
+    "DDG": "-0.30", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "K96A", 
+    "DDG": "-0.40", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "K96G", 
+    "DDG": "-1.30", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "L98A", 
+    "DDG": "-3.80", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "Q107A", 
+    "DDG": "0.50", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1CUNA", 
+    "PDB": "1AJ3A", 
+    "MUT": "Q107G", 
+    "DDG": "-1.30", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FLVA", 
+    "MUT": "F7L", 
+    "DDG": "-0.04", 
+    "pH": "6.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FLVA", 
+    "MUT": "V18I", 
+    "DDG": "1.03", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FLVA", 
+    "MUT": "V18L", 
+    "DDG": "0.60", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FLVA", 
+    "MUT": "H34A", 
+    "DDG": "-0.83", 
+    "pH": "6.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FLVA", 
+    "MUT": "Y47F", 
+    "DDG": "-0.59", 
+    "pH": "6.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FLVA", 
+    "MUT": "V83I", 
+    "DDG": "0.13", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FLVA", 
+    "MUT": "G87A", 
+    "DDG": "-0.13", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FLVA", 
+    "MUT": "G87L", 
+    "DDG": "-0.64", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FLVA", 
+    "MUT": "G87V", 
+    "DDG": "-0.13", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FLVA", 
+    "MUT": "A101L", 
+    "DDG": "0.08", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FLVA", 
+    "MUT": "A101V", 
+    "DDG": "-0.32", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "L6A", 
+    "DDG": "-3.53", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "V18I", 
+    "DDG": "0.27", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-149"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "E20K", 
+    "DDG": "0.28", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-149"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "E20K", 
+    "DDG": "1.60", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "I21A", 
+    "DDG": "-0.02", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-149"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "I21G", 
+    "DDG": "0.01", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-149"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "V31A", 
+    "DDG": "-2.39", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "E40K", 
+    "DDG": "0.38", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-149"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "E40K", 
+    "DDG": "2.21", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "D43A", 
+    "DDG": "0.09", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "L50A", 
+    "DDG": "0.05", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-149"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "I51V", 
+    "DDG": "-1.98", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "I52V", 
+    "DDG": "-1.38", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "E61K", 
+    "DDG": "0.88", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "D65K", 
+    "DDG": "-0.26", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "G68A", 
+    "DDG": "0.45", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-149"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "S71A", 
+    "DDG": "-0.65", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "E72K", 
+    "DDG": "0.29", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-149"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "E72K", 
+    "DDG": "1.28", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "D75K", 
+    "DDG": "0.31", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-149"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "D75K", 
+    "DDG": "1.00", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "V83I", 
+    "DDG": "0.06", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-149"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "A84G", 
+    "DDG": "-2.17", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "N97A", 
+    "DDG": "-0.83", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "Q99A", 
+    "DDG": "0.24", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-149"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "Q99A", 
+    "DDG": "1.72", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "A101V", 
+    "DDG": "0.22", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-149"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "I104V", 
+    "DDG": "-0.67", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "E107A", 
+    "DDG": "0.23", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-149"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "S110A", 
+    "DDG": "-1.03", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "Q111G", 
+    "DDG": "0.10", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "residues_2-149"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "V117A", 
+    "DDG": "-2.05", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "T122S", 
+    "DDG": "-0.37", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "D126K", 
+    "DDG": "1.01", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "V139A", 
+    "DDG": "-1.51", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "L143A", 
+    "DDG": "-0.14", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "D150K", 
+    "DDG": "-0.28", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "I156V", 
+    "DDG": "-3.60", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1FLVA", 
+    "PDB": "1FTGA", 
+    "MUT": "V160A", 
+    "DDG": "-2.46", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1LS4A", 
+    "PDB": "1LS4A", 
+    "MUT": "L17K", 
+    "DDG": "-1.36", 
+    "pH": "7.40", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1LS4A", 
+    "PDB": "1LS4A", 
+    "MUT": "T31A", 
+    "DDG": "0.60", 
+    "pH": "7.40", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1LS4A", 
+    "PDB": "1LS4A", 
+    "MUT": "A140K", 
+    "DDG": "-1.69", 
+    "pH": "7.40", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1LS4A", 
+    "PDB": "1LS4A", 
+    "MUT": "T144A", 
+    "DDG": "-1.32", 
+    "pH": "7.40", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1OIAA", 
+    "PDB": "1OIAA", 
+    "MUT": "Y78D", 
+    "DDG": "-5.10", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1OIAA", 
+    "PDB": "1OIAA", 
+    "MUT": "Y78F", 
+    "DDG": "0.00", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1OIAA", 
+    "PDB": "1OIAA", 
+    "MUT": "Y86T", 
+    "DDG": "-2.90", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1ONCA", 
+    "PDB": "1ONCA", 
+    "MUT": "F28T", 
+    "DDG": "-5.31", 
+    "pH": "5.50", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1RISA", 
+    "PDB": "1RISA", 
+    "MUT": "I8A", 
+    "DDG": "-2.90", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1RISA", 
+    "PDB": "1RISA", 
+    "MUT": "L21A", 
+    "DDG": "1.20", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1RISA", 
+    "PDB": "1RISA", 
+    "MUT": "Y33A", 
+    "DDG": "0.60", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1RISA", 
+    "PDB": "1RISA", 
+    "MUT": "L48A", 
+    "DDG": "-0.30", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1RISA", 
+    "PDB": "1RISA", 
+    "MUT": "F60A", 
+    "DDG": "0.30", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1RISA", 
+    "PDB": "1RISA", 
+    "MUT": "L75A", 
+    "DDG": "-0.70", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1RISA", 
+    "PDB": "1RISA", 
+    "MUT": "L79A", 
+    "DDG": "-2.70", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "A130G", 
+    "DDG": "-0.04", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "L131A", 
+    "DDG": "-0.94", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "S132G", 
+    "DDG": "-0.47", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "P133A", 
+    "DDG": "0.38", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "A134G", 
+    "DDG": "-0.37", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "I135A", 
+    "DDG": "-1.63", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "I135V", 
+    "DDG": "-0.03", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "L138A", 
+    "DDG": "-1.67", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "L139A", 
+    "DDG": "-3.50", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "A140G", 
+    "DDG": "-1.02", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "L144A", 
+    "DDG": "-1.90", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "A146G", 
+    "DDG": "-0.58", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "A148G", 
+    "DDG": "-0.43", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "I149V", 
+    "DDG": "-0.75", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "T152A", 
+    "DDG": "-1.36", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "T152S", 
+    "DDG": "-0.29", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "V154G", 
+    "DDG": "-0.84", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "L158A", 
+    "DDG": "-2.12", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "T159S", 
+    "DDG": "-1.63", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "D162N", 
+    "DDG": "-3.10", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "V163A", 
+    "DDG": "-2.02", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "H166A", 
+    "DDG": "0.06", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "H166G", 
+    "DDG": "-1.58", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "L167A", 
+    "DDG": "-0.57", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "L167A", 
+    "DDG": "-1.18", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "L131W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "1W4HA", 
+    "PDB": "1W4HA", 
+    "MUT": "A168G", 
+    "DDG": "-0.07", 
+    "pH": "7.00", 
+    "T": "25.00", 
+    "COMMENT": "H142W_background"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "2TRXA", 
+    "PDB": "2TRXA", 
+    "MUT": "D26I", 
+    "DDG": "3.10", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "2TRXA", 
+    "PDB": "2TRXA", 
+    "MUT": "P34S", 
+    "DDG": "-0.10", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "2TRXA", 
+    "PDB": "2TRXA", 
+    "MUT": "T66L", 
+    "DDG": "-1.40", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "2TRXA", 
+    "PDB": "2TRXA", 
+    "MUT": "P76A", 
+    "DDG": "-3.90", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "3D2AA", 
+    "PDB": "3D2AA", 
+    "MUT": "M134E", 
+    "DDG": "0.66", 
+    "pH": "7.20", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "3D2AA", 
+    "PDB": "3D2AA", 
+    "MUT": "M137P", 
+    "DDG": "0.98", 
+    "pH": "7.20", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_1", 
+    "CLID": "3D2AA", 
+    "PDB": "3D2AA", 
+    "MUT": "S163P", 
+    "DDG": "-0.25", 
+    "pH": "7.20", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1BNLA", 
+    "PDB": "1BNLA", 
+    "MUT": "D76A", 
+    "DDG": "-0.82", 
+    "pH": "7.40", 
+    "T": "20.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "L7V", 
+    "DDG": "-1.40", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "K9F", 
+    "DDG": "-1.20", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "P11A", 
+    "DDG": "-0.40", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "P11F", 
+    "DDG": "-0.60", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "P11G", 
+    "DDG": "-1.00", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "T13C", 
+    "DDG": "-1.40", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "L14V", 
+    "DDG": "-1.50", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "I15M", 
+    "DDG": "-0.30", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "D19F", 
+    "DDG": "-1.50", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "D21K", 
+    "DDG": "1.00", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "T22I", 
+    "DDG": "-0.70", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "V23G", 
+    "DDG": "-5.60", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "V23I", 
+    "DDG": "-0.20", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "V23L", 
+    "DDG": "-0.10", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "K24F", 
+    "DDG": "-0.60", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "L25A", 
+    "DDG": "-2.70", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "Y27C", 
+    "DDG": "-2.90", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "Y27D", 
+    "DDG": "-5.40", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "Y27E", 
+    "DDG": "-5.00", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "Y27G", 
+    "DDG": "-5.45", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "Y27P", 
+    "DDG": "-6.10", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "G29V", 
+    "DDG": "-3.00", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "P31A", 
+    "DDG": "-0.50", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "P31G", 
+    "DDG": "-1.60", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "T33C", 
+    "DDG": "-1.20", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "F34G", 
+    "DDG": "-6.20", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "L36V", 
+    "DDG": "-3.50", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "L37I", 
+    "DDG": "-2.00", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "V39I", 
+    "DDG": "0.10", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "V39L", 
+    "DDG": "-0.90", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "T41I", 
+    "DDG": "0.70", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "P42A", 
+    "DDG": "0.10", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "P42G", 
+    "DDG": "-0.40", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "T44C", 
+    "DDG": "-0.20", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "P47A", 
+    "DDG": "-0.60", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "P47F", 
+    "DDG": "-0.30", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "P47G", 
+    "DDG": "-0.10", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "V51L", 
+    "DDG": "-0.20", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "Y54F", 
+    "DDG": "-0.50", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "G55V", 
+    "DDG": "-1.80", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "P56A", 
+    "DDG": "0.00", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "P56G", 
+    "DDG": "-1.00", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "K63Q", 
+    "DDG": "-1.00", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "M65F", 
+    "DDG": "-1.60", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "M65I", 
+    "DDG": "-1.50", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "V66I", 
+    "DDG": "-1.00", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "V66K", 
+    "DDG": "-5.20", 
+    "pH": "8.80", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "K70E", 
+    "DDG": "-0.40", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "I72A", 
+    "DDG": "-5.10", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "I72G", 
+    "DDG": "-6.50", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "I72L", 
+    "DDG": "-0.20", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "V74G", 
+    "DDG": "-6.60", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "V74L", 
+    "DDG": "-1.20", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "V74S", 
+    "DDG": "-5.40", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "D77K", 
+    "DDG": "-3.50", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "K78Q", 
+    "DDG": "-0.10", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "T82C", 
+    "DDG": "-0.10", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "T82I", 
+    "DDG": "0.50", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "D83F", 
+    "DDG": "-5.20", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "K84Q", 
+    "DDG": "-0.10", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "G86F", 
+    "DDG": "-2.00", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "L89I", 
+    "DDG": "-1.10", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "Y91A", 
+    "DDG": "-5.30", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "Y91G", 
+    "DDG": "-6.70", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "I92G", 
+    "DDG": "-6.60", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "I92M", 
+    "DDG": "-1.60", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "Y93A", 
+    "DDG": "-6.50", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "Y93G", 
+    "DDG": "-7.50", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "D95F", 
+    "DDG": "-5.30", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "G96F", 
+    "DDG": "-3.00", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "G96V", 
+    "DDG": "-3.70", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "V99G", 
+    "DDG": "-5.00", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "V99S", 
+    "DDG": "-5.10", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "N100A", 
+    "DDG": "-5.20", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "L103G", 
+    "DDG": "-6.60", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "V104G", 
+    "DDG": "-6.50", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "V104I", 
+    "DDG": "0.20", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "R105C", 
+    "DDG": "-2.70", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "L108A", 
+    "DDG": "-5.80", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "L108G", 
+    "DDG": "-7.20", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "L108V", 
+    "DDG": "-3.90", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "V111I", 
+    "DDG": "-0.70", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "V111L", 
+    "DDG": "-0.90", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "V114I", 
+    "DDG": "-0.10", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "P117A", 
+    "DDG": "0.80", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "P117F", 
+    "DDG": "0.30", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "P117G", 
+    "DDG": "0.90", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "P117L", 
+    "DDG": "0.20", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "H124E", 
+    "DDG": "0.20", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "L125G", 
+    "DDG": "-7.00", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "L125I", 
+    "DDG": "-1.00", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "L137V", 
+    "DDG": "-1.40", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "I139L", 
+    "DDG": "-0.10", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "W140F", 
+    "DDG": "-0.60", 
+    "pH": "7.00", 
+    "T": "20.00", 
+    "COMMENT": "P47G/P117G/H124L_background"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "W140H", 
+    "DDG": "-0.40", 
+    "pH": "7.00", 
+    "T": "20.00", 
+    "COMMENT": "P47G/P117G/H124L_background"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "W140L", 
+    "DDG": "-4.50", 
+    "pH": "7.00", 
+    "T": "20.00", 
+    "COMMENT": "P47G/P117G/H124L_background"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "W140Y", 
+    "DDG": "-1.10", 
+    "pH": "7.00", 
+    "T": "20.00", 
+    "COMMENT": "P47G/P117G/H124L_background"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1EY0A", 
+    "PDB": "1STNA", 
+    "MUT": "S141A", 
+    "DDG": "-0.40", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "V4A", 
+    "DDG": "-1.32", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "T5A", 
+    "DDG": "-1.76", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "I6A", 
+    "DDG": "-4.50", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "K7A", 
+    "DDG": "-0.90", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "A8G", 
+    "DDG": "-2.35", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "N9A", 
+    "DDG": "-1.75", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "L10A", 
+    "DDG": "-2.69", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "I11A", 
+    "DDG": "-1.26", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "I11V", 
+    "DDG": "-0.43", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "F12A", 
+    "DDG": "-2.91", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "F12L", 
+    "DDG": "-0.55", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "A13P", 
+    "DDG": "-0.05", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "A13V", 
+    "DDG": "-1.08", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "N14A", 
+    "DDG": "-1.72", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "G15A", 
+    "DDG": "-1.58", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "G15V", 
+    "DDG": "-2.70", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "S16A", 
+    "DDG": "-0.22", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "T17A", 
+    "DDG": "-1.17", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "T19A", 
+    "DDG": "-1.01", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "A20G", 
+    "DDG": "-2.15", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "A20V", 
+    "DDG": "1.12", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "E21A", 
+    "DDG": "-0.66", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "F22A", 
+    "DDG": "-5.25", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "F22L", 
+    "DDG": "-3.27", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "K23A", 
+    "DDG": "-0.93", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "G24A", 
+    "DDG": "-1.94", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "T25A", 
+    "DDG": "-1.10", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "F26G", 
+    "DDG": "-3.15", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "F26L", 
+    "DDG": "-0.42", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "K28G", 
+    "DDG": "-0.02", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "A29G", 
+    "DDG": "-2.49", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "T30A", 
+    "DDG": "-1.17", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "S31A", 
+    "DDG": "0.34", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "S31G", 
+    "DDG": "-0.78", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "E32G", 
+    "DDG": "-1.09", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "E32I", 
+    "DDG": "-1.13", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "A33G", 
+    "DDG": "-3.34", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "Y34A", 
+    "DDG": "-2.81", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "A35G", 
+    "DDG": "-1.22", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "Y36A", 
+    "DDG": "-2.49", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "A37G", 
+    "DDG": "-3.29", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "D38A", 
+    "DDG": "-1.05", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "D38G", 
+    "DDG": "-1.95", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "T39G", 
+    "DDG": "-0.23", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "L40A", 
+    "DDG": "-2.25", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "K41A", 
+    "DDG": "0.40", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "K42A", 
+    "DDG": "0.14", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "N44A", 
+    "DDG": "-0.36", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "G45A", 
+    "DDG": "-1.92", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "E46A", 
+    "DDG": "-0.16", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "T48A", 
+    "DDG": "-1.25", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "V49A", 
+    "DDG": "-0.91", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "D50A", 
+    "DDG": "-0.08", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "V51A", 
+    "DDG": "-0.98", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "A52G", 
+    "DDG": "-0.57", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "K54A", 
+    "DDG": "-0.11", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "G55A", 
+    "DDG": "-2.12", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1HZ6A", 
+    "PDB": "1HZ6A", 
+    "MUT": "Y56A", 
+    "DDG": "-1.51", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1MGRA", 
+    "PDB": "1MGRA", 
+    "MUT": "Y54F", 
+    "DDG": "-2.60", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1MGRA", 
+    "PDB": "1MGRA", 
+    "MUT": "Y84F", 
+    "DDG": "-1.00", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1MGRA", 
+    "PDB": "1RGGA", 
+    "MUT": "D25H", 
+    "DDG": "0.90", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1MGRA", 
+    "PDB": "1RGGA", 
+    "MUT": "Y30F", 
+    "DDG": "0.40", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1MGRA", 
+    "PDB": "1RGGA", 
+    "MUT": "R40E", 
+    "DDG": "-0.40", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1MGRA", 
+    "PDB": "1RGGA", 
+    "MUT": "E41K", 
+    "DDG": "-1.20", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1MGRA", 
+    "PDB": "1RGGA", 
+    "MUT": "Y55F", 
+    "DDG": "-0.60", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1MGRA", 
+    "PDB": "1RGGA", 
+    "MUT": "E74K", 
+    "DDG": "1.10", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1MGRA", 
+    "PDB": "1RGGA", 
+    "MUT": "Y80F", 
+    "DDG": "-1.50", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1MJCA", 
+    "PDB": "1CSPA", 
+    "MUT": "E3R", 
+    "DDG": "0.88", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1MJCA", 
+    "PDB": "1CSPA", 
+    "MUT": "F15A", 
+    "DDG": "-2.27", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1MJCA", 
+    "PDB": "1CSPA", 
+    "MUT": "F17A", 
+    "DDG": "-1.53", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1MJCA", 
+    "PDB": "1CSPA", 
+    "MUT": "F27A", 
+    "DDG": "-0.76", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1MJCA", 
+    "PDB": "1CSPA", 
+    "MUT": "F38A", 
+    "DDG": "0.15", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1MJCA", 
+    "PDB": "1CSPA", 
+    "MUT": "E66L", 
+    "DDG": "1.34", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1MJCA", 
+    "PDB": "1MJCA", 
+    "MUT": "F20L", 
+    "DDG": "-0.31", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1MJCA", 
+    "PDB": "1MJCA", 
+    "MUT": "F20S", 
+    "DDG": "-1.16", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1MJCA", 
+    "PDB": "1MJCA", 
+    "MUT": "F31S", 
+    "DDG": "-1.03", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "1MJCA", 
+    "PDB": "1MJCA", 
+    "MUT": "S52W", 
+    "DDG": "-0.20", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "2CI2I", 
+    "PDB": "2CI2I", 
+    "MUT": "E33N", 
+    "DDG": "-0.28", 
+    "pH": "6.30", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "2CI2I", 
+    "PDB": "2CI2I", 
+    "MUT": "L51V", 
+    "DDG": "-1.02", 
+    "pH": "6.30", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "2CI2I", 
+    "PDB": "2CI2I", 
+    "MUT": "R67A", 
+    "DDG": "-1.21", 
+    "pH": "7.00", 
+    "T": "30.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "2CI2I", 
+    "PDB": "2CI2I", 
+    "MUT": "F69L", 
+    "DDG": "-1.92", 
+    "pH": "6.30", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "2Q98A", 
+    "PDB": "2Q98A", 
+    "MUT": "H27A", 
+    "DDG": "0.09", 
+    "pH": "5.80", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "2Q98A", 
+    "PDB": "2Q98A", 
+    "MUT": "H30A", 
+    "DDG": "3.10", 
+    "pH": "5.80", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "2Q98A", 
+    "PDB": "2Q98A", 
+    "MUT": "H46A", 
+    "DDG": "-0.11", 
+    "pH": "5.80", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "2Q98A", 
+    "PDB": "2Q98A", 
+    "MUT": "H59A", 
+    "DDG": "2.26", 
+    "pH": "5.80", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "2Q98A", 
+    "PDB": "2Q98A", 
+    "MUT": "H97A", 
+    "DDG": "1.07", 
+    "pH": "5.80", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "2Q98A", 
+    "PDB": "2Q98A", 
+    "MUT": "H138A", 
+    "DDG": "2.04", 
+    "pH": "5.80", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "2Q98A", 
+    "PDB": "2Q98A", 
+    "MUT": "H173A", 
+    "DDG": "0.24", 
+    "pH": "5.80", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "2Q98A", 
+    "PDB": "2Q98A", 
+    "MUT": "H180A", 
+    "DDG": "1.39", 
+    "pH": "5.80", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_2", 
+    "CLID": "2Q98A", 
+    "PDB": "2Q98A", 
+    "MUT": "H195A", 
+    "DDG": "-0.03", 
+    "pH": "5.80", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1BVCA", 
+    "PDB": "1BVCA", 
+    "MUT": "L11A", 
+    "DDG": "-0.60", 
+    "pH": "5.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1BVCA", 
+    "PDB": "1BVCA", 
+    "MUT": "V13A", 
+    "DDG": "0.00", 
+    "pH": "5.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1BVCA", 
+    "PDB": "1BVCA", 
+    "MUT": "A15L", 
+    "DDG": "0.10", 
+    "pH": "5.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1BVCA", 
+    "PDB": "1BVCA", 
+    "MUT": "I28A", 
+    "DDG": "-2.06", 
+    "pH": "6.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1BVCA", 
+    "PDB": "1BVCA", 
+    "MUT": "L29A", 
+    "DDG": "-0.39", 
+    "pH": "6.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1BVCA", 
+    "PDB": "1BVCA", 
+    "MUT": "I30A", 
+    "DDG": "-1.90", 
+    "pH": "6.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1BVCA", 
+    "PDB": "1BVCA", 
+    "MUT": "L32A", 
+    "DDG": "-2.04", 
+    "pH": "6.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1BVCA", 
+    "PDB": "1BVCA", 
+    "MUT": "F106A", 
+    "DDG": "-0.70", 
+    "pH": "5.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1BVCA", 
+    "PDB": "1BVCA", 
+    "MUT": "L115A", 
+    "DDG": "-1.40", 
+    "pH": "5.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1BVCA", 
+    "PDB": "1BVCA", 
+    "MUT": "F123A", 
+    "DDG": "-1.10", 
+    "pH": "5.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1BVCA", 
+    "PDB": "1BVCA", 
+    "MUT": "A125L", 
+    "DDG": "0.60", 
+    "pH": "5.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1BVCA", 
+    "PDB": "1BVCA", 
+    "MUT": "L135A", 
+    "DDG": "-1.70", 
+    "pH": "5.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1BVCA", 
+    "PDB": "1BVCA", 
+    "MUT": "L137A", 
+    "DDG": "-0.30", 
+    "pH": "5.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1BVCA", 
+    "PDB": "1BVCA", 
+    "MUT": "A144L", 
+    "DDG": "0.40", 
+    "pH": "5.00", 
+    "T": "25.00", 
+    "COMMENT": "apo_form"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1DILA", 
+    "PDB": "1DILA", 
+    "MUT": "A53L", 
+    "DDG": "0.81", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1DILA", 
+    "PDB": "1DILA", 
+    "MUT": "A69V", 
+    "DDG": "0.62", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1HMEA", 
+    "PDB": "1HMEA", 
+    "MUT": "G35H", 
+    "DDG": "-0.34", 
+    "pH": "7.00", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1RG8A", 
+    "PDB": "2AFGA", 
+    "MUT": "C16S", 
+    "DDG": "-2.89", 
+    "pH": "6.60", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1RG8A", 
+    "PDB": "2AFGA", 
+    "MUT": "H21Y", 
+    "DDG": "1.01", 
+    "pH": "7.30", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1RG8A", 
+    "PDB": "2AFGA", 
+    "MUT": "V31I", 
+    "DDG": "-0.96", 
+    "pH": "6.60", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1RG8A", 
+    "PDB": "2AFGA", 
+    "MUT": "L44F", 
+    "DDG": "0.87", 
+    "pH": "7.30", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1RG8A", 
+    "PDB": "2AFGA", 
+    "MUT": "L44W", 
+    "DDG": "0.57", 
+    "pH": "6.60", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1RG8A", 
+    "PDB": "2AFGA", 
+    "MUT": "F85W", 
+    "DDG": "0.01", 
+    "pH": "6.60", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1RG8A", 
+    "PDB": "2AFGA", 
+    "MUT": "H102Y", 
+    "DDG": "0.44", 
+    "pH": "7.30", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1RG8A", 
+    "PDB": "2AFGA", 
+    "MUT": "N106G", 
+    "DDG": "0.38", 
+    "pH": "6.60", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1RG8A", 
+    "PDB": "2AFGA", 
+    "MUT": "F108Y", 
+    "DDG": "0.94", 
+    "pH": "7.30", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1RG8A", 
+    "PDB": "2AFGA", 
+    "MUT": "V109I", 
+    "DDG": "0.06", 
+    "pH": "7.30", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1RG8A", 
+    "PDB": "2AFGA", 
+    "MUT": "C117I", 
+    "DDG": "-0.36", 
+    "pH": "6.60", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1RG8A", 
+    "PDB": "2AFGA", 
+    "MUT": "F132W", 
+    "DDG": "0.33", 
+    "pH": "6.60", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1SHGA", 
+    "PDB": "1SHGA", 
+    "MUT": "Y13F", 
+    "DDG": "-2.53", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1SHGA", 
+    "PDB": "1SHGA", 
+    "MUT": "K18F", 
+    "DDG": "-2.33", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1SHGA", 
+    "PDB": "1SHGA", 
+    "MUT": "Y57F", 
+    "DDG": "-2.57", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1TENA", 
+    "PDB": "1TENA", 
+    "MUT": "Y869A", 
+    "DDG": "-1.88", 
+    "pH": "5.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1TITA", 
+    "PDB": "1TITA", 
+    "MUT": "Y9F", 
+    "DDG": "-0.40", 
+    "pH": "7.40", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1TITA", 
+    "PDB": "1TITA", 
+    "MUT": "Y9G", 
+    "DDG": "-0.80", 
+    "pH": "7.40", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1TITA", 
+    "PDB": "1TITA", 
+    "MUT": "Y9P", 
+    "DDG": "-2.20", 
+    "pH": "7.40", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1TITA", 
+    "PDB": "1TITA", 
+    "MUT": "Y9S", 
+    "DDG": "-0.20", 
+    "pH": "7.40", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1TITA", 
+    "PDB": "1TITA", 
+    "MUT": "L41A", 
+    "DDG": "-2.67", 
+    "pH": "7.40", 
+    "T": "25.00", 
+    "COMMENT": "residues_25-89"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1TITA", 
+    "PDB": "1TITA", 
+    "MUT": "L58A", 
+    "DDG": "-3.61", 
+    "pH": "7.40", 
+    "T": "25.00", 
+    "COMMENT": "residues_25-89"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1TITA", 
+    "PDB": "1TITA", 
+    "MUT": "L60A", 
+    "DDG": "-5.27", 
+    "pH": "7.40", 
+    "T": "25.00", 
+    "COMMENT": "residues_25-89"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1TITA", 
+    "PDB": "1TITA", 
+    "MUT": "C63S", 
+    "DDG": "-5.43", 
+    "pH": "7.30", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1TITA", 
+    "PDB": "1TITA", 
+    "MUT": "F73L", 
+    "DDG": "-3.06", 
+    "pH": "7.40", 
+    "T": "25.00", 
+    "COMMENT": "residues_25-89"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "1TITA", 
+    "PDB": "1TITA", 
+    "MUT": "V86A", 
+    "DDG": "-4.78", 
+    "pH": "7.40", 
+    "T": "25.00", 
+    "COMMENT": "residues_25-89"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "M6I", 
+    "DDG": "-4.78", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "L7A", 
+    "DDG": "-4.10", 
+    "pH": "6.00", 
+    "T": "25.00", 
+    "COMMENT": "C54T/C97A_background"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "I27A", 
+    "DDG": "-3.90", 
+    "pH": "6.00", 
+    "T": "25.00", 
+    "COMMENT": "C54T/C97A_background"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "P37A", 
+    "DDG": "0.00", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "S38D", 
+    "DDG": "-1.20", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "A42G", 
+    "DDG": "-3.20", 
+    "pH": "6.00", 
+    "T": "25.00", 
+    "COMMENT": "C54T/C97A_background"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "I50A", 
+    "DDG": "-2.90", 
+    "pH": "6.00", 
+    "T": "25.00", 
+    "COMMENT": "C54T/C97A_background"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "G51D", 
+    "DDG": "-2.63", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "C54Y", 
+    "DDG": "-5.02", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "I58Y", 
+    "DDG": "-3.11", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "L66P", 
+    "DDG": "-7.12", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "G77A", 
+    "DDG": "-1.20", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "A82P", 
+    "DDG": "-0.72", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "P86G", 
+    "DDG": "-1.91", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "V87A", 
+    "DDG": "-2.80", 
+    "pH": "6.00", 
+    "T": "25.00", 
+    "COMMENT": "C54T/C97A_background"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "L91P", 
+    "DDG": "-8.13", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "Q105G", 
+    "DDG": "-3.11", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "R119E", 
+    "DDG": "0.00", 
+    "pH": "5.30", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "L121A", 
+    "DDG": "-4.20", 
+    "pH": "6.00", 
+    "T": "25.00", 
+    "COMMENT": "C54T/C97A_background"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "W126R", 
+    "DDG": "-5.74", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "A130G", 
+    "DDG": "-2.10", 
+    "pH": "6.00", 
+    "T": "25.00", 
+    "COMMENT": "C54T/C97A_background"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "K135E", 
+    "DDG": "-1.00", 
+    "pH": "5.30", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "A146I", 
+    "DDG": "-4.31", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "A146T", 
+    "DDG": "-2.87", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "K147E", 
+    "DDG": "-0.70", 
+    "pH": "5.30", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "I150V", 
+    "DDG": "-2.10", 
+    "pH": "6.00", 
+    "T": "25.00", 
+    "COMMENT": "C54T/C97A_background"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "F153C", 
+    "DDG": "-3.11", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "G156D", 
+    "DDG": "-4.07", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "2LZMA", 
+    "PDB": "2LZMA", 
+    "MUT": "A160T", 
+    "DDG": "-4.55", 
+    "pH": "7.00", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "3MBPA", 
+    "PDB": "3MBPA", 
+    "MUT": "W10A", 
+    "DDG": "-4.30", 
+    "pH": "7.60", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "3MBPA", 
+    "PDB": "3MBPA", 
+    "MUT": "P48S", 
+    "DDG": "-0.30", 
+    "pH": "7.10", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "3MBPA", 
+    "PDB": "3MBPA", 
+    "MUT": "I59A", 
+    "DDG": "-1.20", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "3MBPA", 
+    "PDB": "3MBPA", 
+    "MUT": "I108A", 
+    "DDG": "-3.15", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "3MBPA", 
+    "PDB": "3MBPA", 
+    "MUT": "L115A", 
+    "DDG": "-3.10", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "3MBPA", 
+    "PDB": "3MBPA", 
+    "MUT": "P133S", 
+    "DDG": "0.00", 
+    "pH": "7.10", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "3MBPA", 
+    "PDB": "3MBPA", 
+    "MUT": "L147A", 
+    "DDG": "-3.00", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "3MBPA", 
+    "PDB": "3MBPA", 
+    "MUT": "P159A", 
+    "DDG": "-1.00", 
+    "pH": "7.10", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "3MBPA", 
+    "PDB": "3MBPA", 
+    "MUT": "P159S", 
+    "DDG": "-1.70", 
+    "pH": "7.10", 
+    "T": "22.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "3MBPA", 
+    "PDB": "3MBPA", 
+    "MUT": "I161A", 
+    "DDG": "-3.25", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "3MBPA", 
+    "PDB": "3MBPA", 
+    "MUT": "L192A", 
+    "DDG": "-3.10", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "3MBPA", 
+    "PDB": "3MBPA", 
+    "MUT": "L195A", 
+    "DDG": "-4.20", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "3MBPA", 
+    "PDB": "3MBPA", 
+    "MUT": "I226A", 
+    "DDG": "-4.95", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "3MBPA", 
+    "PDB": "3MBPA", 
+    "MUT": "V347A", 
+    "DDG": "-2.00", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_3", 
+    "CLID": "3MBPA", 
+    "PDB": "3MBPA", 
+    "MUT": "L361A", 
+    "DDG": "-2.00", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "M1A", 
+    "DDG": "-1.46", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "M1G", 
+    "DDG": "-2.36", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "V3A", 
+    "DDG": "-2.55", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "V3I", 
+    "DDG": "-0.31", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "V3L", 
+    "DDG": "-2.21", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "I4A", 
+    "DDG": "-2.22", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "I4V", 
+    "DDG": "-0.59", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "L6A", 
+    "DDG": "-3.10", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "L6I", 
+    "DDG": "-0.13", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "L6V", 
+    "DDG": "-0.41", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "K7M", 
+    "DDG": "0.35", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "D8N", 
+    "DDG": "-0.30", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "K10M", 
+    "DDG": "0.05", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "K12M", 
+    "DDG": "1.90", 
+    "pH": "5.40", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "K14M", 
+    "DDG": "0.01", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "K15M", 
+    "DDG": "-0.31", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "E17Q", 
+    "DDG": "-0.21", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "V21A", 
+    "DDG": "-2.33", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "V21I", 
+    "DDG": "-0.40", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "V21L", 
+    "DDG": "-1.23", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "D23A", 
+    "DDG": "-0.49", 
+    "pH": "5.40", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "D23N", 
+    "DDG": "-0.72", 
+    "pH": "5.40", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "L30A", 
+    "DDG": "-2.76", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "L30V", 
+    "DDG": "-3.62", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "E38Q", 
+    "DDG": "-0.56", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "E48Q", 
+    "DDG": "0.03", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "E54Q", 
+    "DDG": "0.33", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_1-56"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "H106Q", 
+    "DDG": "-0.95", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_57-149"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "H134Q", 
+    "DDG": "-0.66", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_57-149"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1DIVA", 
+    "PDB": "1DIVA", 
+    "MUT": "H144Q", 
+    "DDG": "-0.69", 
+    "pH": "5.50", 
+    "T": "25.00", 
+    "COMMENT": "residues_57-149"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1EL1A", 
+    "PDB": "4LYZA", 
+    "MUT": "I55T", 
+    "DDG": "-3.30", 
+    "pH": "5.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1FNFA", 
+    "PDB": "1FNFA", 
+    "MUT": "L1408P", 
+    "DDG": "-0.02", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1FNFA", 
+    "PDB": "1TTGA", 
+    "MUT": "P5A", 
+    "DDG": "0.11", 
+    "pH": "5.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1FNFA", 
+    "PDB": "1TTGA", 
+    "MUT": "P25A", 
+    "DDG": "-0.48", 
+    "pH": "5.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1FNFA", 
+    "PDB": "1TTGA", 
+    "MUT": "I34V", 
+    "DDG": "-0.41", 
+    "pH": "5.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1FNFA", 
+    "PDB": "1TTGA", 
+    "MUT": "V50A", 
+    "DDG": "-2.42", 
+    "pH": "5.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1FNFA", 
+    "PDB": "1TTGA", 
+    "MUT": "P64A", 
+    "DDG": "-0.41", 
+    "pH": "5.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1FNFA", 
+    "PDB": "1TTGA", 
+    "MUT": "P82A", 
+    "DDG": "-0.42", 
+    "pH": "5.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1FNFA", 
+    "PDB": "1TTGA", 
+    "MUT": "P87A", 
+    "DDG": "-0.21", 
+    "pH": "5.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "1IFBA", 
+    "MUT": "W6Y", 
+    "DDG": "-0.93", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "1IFBA", 
+    "MUT": "F68A", 
+    "DDG": "1.38", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "1IFBA", 
+    "MUT": "W82Y", 
+    "DDG": "0.09", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "1IFBA", 
+    "MUT": "F93A", 
+    "DDG": "-2.42", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "2HMBA", 
+    "MUT": "F16Y", 
+    "DDG": "-3.44", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "2HMBA", 
+    "MUT": "T40E", 
+    "DDG": "-3.27", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "2HMBA", 
+    "MUT": "T40Q", 
+    "DDG": "-4.37", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "2HMBA", 
+    "MUT": "T40V", 
+    "DDG": "-1.84", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "2HMBA", 
+    "MUT": "F57S", 
+    "DDG": "-3.63", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "2HMBA", 
+    "MUT": "R106T", 
+    "DDG": "-3.54", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "2HMBA", 
+    "MUT": "R126K", 
+    "DDG": "-4.66", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "2HMBA", 
+    "MUT": "R126Q", 
+    "DDG": "-0.62", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "2HMBA", 
+    "MUT": "Y128F", 
+    "DDG": "-3.82", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "2IFBA", 
+    "MUT": "I23C", 
+    "DDG": "0.91", 
+    "pH": "7.20", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "2IFBA", 
+    "MUT": "S53C", 
+    "DDG": "0.58", 
+    "pH": "7.20", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "2IFBA", 
+    "MUT": "V60C", 
+    "DDG": "0.80", 
+    "pH": "7.20", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "2IFBA", 
+    "MUT": "V60N", 
+    "DDG": "-0.76", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "2IFBA", 
+    "MUT": "L64A", 
+    "DDG": "-2.07", 
+    "pH": "7.40", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "2IFBA", 
+    "MUT": "L64G", 
+    "DDG": "-2.63", 
+    "pH": "7.40", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "2IFBA", 
+    "MUT": "G65A", 
+    "DDG": "-1.33", 
+    "pH": "7.40", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "2IFBA", 
+    "MUT": "L72C", 
+    "DDG": "-0.14", 
+    "pH": "7.20", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "2IFBA", 
+    "MUT": "L89C", 
+    "DDG": "-0.60", 
+    "pH": "7.20", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1HMSA", 
+    "PDB": "2IFBA", 
+    "MUT": "A104C", 
+    "DDG": "2.54", 
+    "pH": "7.20", 
+    "T": "20.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1MSIA", 
+    "PDB": "1MSIA", 
+    "MUT": "E25A", 
+    "DDG": "-0.02", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1MSIA", 
+    "PDB": "1MSIA", 
+    "MUT": "R47A", 
+    "DDG": "-0.56", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1MSIA", 
+    "PDB": "1MSIA", 
+    "MUT": "D58N", 
+    "DDG": "-0.06", 
+    "pH": "7.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1ZNJA", 
+    "PDB": "1ZNJA", 
+    "MUT": "T8A", 
+    "DDG": "0.16", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1ZNJA", 
+    "PDB": "1ZNJA", 
+    "MUT": "T8H", 
+    "DDG": "1.76", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "1ZNJA", 
+    "PDB": "1ZNJA", 
+    "MUT": "T8R", 
+    "DDG": "1.25", 
+    "pH": "8.00", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "3BLSA", 
+    "PDB": "3BLSA", 
+    "MUT": "Y150F", 
+    "DDG": "-1.00", 
+    "pH": "6.80", 
+    "T": "25.00"
+  }, 
+  {
+    "SET": "SET_4", 
+    "CLID": "3PGKA", 
+    "PDB": "3PGKA", 
+    "MUT": "H388Q", 
+    "DDG": "-0.84", 
+    "pH": "6.50", 
+    "T": "25.00"
+  }
+]
