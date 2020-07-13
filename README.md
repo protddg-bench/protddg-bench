@@ -18,9 +18,12 @@
               PMID:31266447.
 
 
+## Datasets files
+
 - The directory S2648 and VB1432 contains 10 files for 10-folds cross-validation tests.
   Furthermore, the cross-validation subset of S2648 and VB1432 are consistent. This means that 
   the following predictions can be performed:
+
          Training: not SET_i vb1432-10fold-split-j.tsv -> Test: SET_i s2648-10fold-split-j.tsv
          Training: not SET_i s2648-10fold-split-j.tsv  -> Test: SET_i vb1432-10fold-split-j.tsv
 
@@ -28,6 +31,7 @@
 - The directory BROOM contains a 5-fold split of the BROOM dataset. Given the numeber of mutations
   mutations form the same cluster the set has been diveded in 5 subsets. 
   The test on this dataset can be performed as follow:
+
          Training: not SET_i train-vb1432-test-broom.tsv -> Test: SET_i broom-5fold.tsv
          Training: not SET_i train-s2648-test-broom.tsv  -> Test: SET_i broom-5fold.tsv
 
@@ -35,6 +39,7 @@
 - The directory SSYM contains a 5-fold split of the Ssym dataset. Given the large number of
   mutations form the same cluster the set has been diveded in 5 subsets. 
   The test on this dataset can be performed as follow:
+
          Training: not SET_i train-vb1432-test-ssym.tsv -> Test: SET_i ssym-5fold.tsv
          Training: not SET_i train-s2648-test-ssym.tsv  -> Test: SET_i ssym-5fold.tsv
 
@@ -42,6 +47,7 @@
 - The directory MYOGLOBIN test contains the testing dataset myoglogin.tsv with the 
   best subsets of VB1432 and S2648 to be used as possible training.
   The following prediction can be performed:
+
         Training: train-vb1432-test-myoglobin.tsv (1399) -> Test: myoglobin.tsv
         Training: train-s2648-test-myoglobin.tsv  (2607) -> Test: myoglobin.tsv
 
@@ -49,6 +55,7 @@
 - The directory P53 test contains the testing dataset p53.tsv with the best subsets 
   of VB1432 and S2648 to be used as possible training. 
   The following prediction can be performed:
+
         Training: train-vb1432-test-p53.tsv       (1427) -> Test: p53.tsv
         Training: train-s2648-test-p53.tsv        (2643) -> Test: p53.tsv
 
@@ -58,13 +65,18 @@
   The directory PTMUL contains a 5-fold split of the PTMUL dataset. Given the numeber of mutations
   mutations form the same cluster the set has been diveded in 5 subsets.
   The test on this dataset can be performed as follow:
+
          Training: not SET_i train-vb1432-test-ptmul.tsv -> Test: SET_i ptmul-5fold.tsv
          Training: not SET_i train-s2648-test-ptmul.tsv  -> Test: SET_i ptmul-5fold.tsv
 
 
+# Clustering
+
 - The file data/cluster-545-pdbchains.txt contains 132 clusters of 545 PDB chains.
   The clustering is obtained using blastclust with the options -S 25 -L 0.5 -b F.
 
+
+## Testing
 
 - To test your method you need to:
   1) replace the file scripts/predict-ddg-value.py with your own script that runs taking 
