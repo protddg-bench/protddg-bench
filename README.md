@@ -91,4 +91,5 @@
      
   Finally run ./test.py input_feature_file.txt to score the performace of your method.
   For example runs:
+
      ./test.py data/ifeatures-KYTJ820101-BASU050101.txt
