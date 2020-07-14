@@ -11,8 +11,7 @@ INTRODUCTION
 DATASETS
 
       All the datasets for testing the performance of the predictors of DDG upon mutation are available at
-      the [protddg-bench](https://github.com/protddg-bench/protddg-bench) repository.
-      The protddg-bench repository includes the following datasets:
+      the protddg-bench repository. The protddg-bench repository includes the following datasets:
 
       1. VB1432:    1432 variants from 79 protein structures corresponding to 65 clusters.
                     9 mutations have double experimental data. 1 mutation is not mapping 
