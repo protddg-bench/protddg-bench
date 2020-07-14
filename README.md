@@ -1,8 +1,16 @@
-# Datasets for scoring the methods for predicting the DDG upon protein mutation.
+# Benchmarking resource for predictors of protein stability change.
+
+INTRODUCTION
+
+      Emidio Capriotti and Ludovica Montanucci, 2020.
+      Scripts are licensed under the Creative Commons by NC-SA license.
+
+      PhD-SNPg is a program for the annotation of single nucleotide variants that uses data from the UCSC repository.
+
 
 All the datasets for testing the performance of the predictors of DDG upon mutation are available at
-the [thermoprot-ddg](https://github.com/thermoprot-ddg/thermoprot-ddg) repository.
-The thermoprot-ddg repository includes the following datasets:
+the [protddg-bench](https://github.com/protddg-bench/protddg-bench) repository.
+The protddg-bench repository includes the following datasets:
 
 1. VB1432:    1432 variants from 79 protein structures corresponding to 65 clusters.
               9 mutations have double experimental data. 1 mutation is not mapping 
