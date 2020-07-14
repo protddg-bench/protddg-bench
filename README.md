@@ -93,7 +93,7 @@ TESTING
            in input only the testing and training files and returning in standard output 
            the experimental and the predicted ddgs respectively
            The program runs as follows:
-                predict-ddg-value.py test_file.txt train_file.txt
+                ./predict-ddg-value.py test_file.txt train_file.txt
 
         2. Generate an inputfile containing a two columns representing the PDB chain 
            identifier and the mutation followed by all the inputfeatures.
