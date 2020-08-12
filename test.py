@@ -3,7 +3,7 @@ import os, sys, subprocess, argparse
 
 
 def get_options():
-	parser = argparse.ArgumentParser(description='Test DDG rediction performance')
+	parser = argparse.ArgumentParser(description='Test DDG prediction performance')
 	parser.add_argument('filedata', type=str, help='Input file')
 	parser.add_argument('-s','--set', type=str, dest='tset', default='all', help='Test sets')
 	parser.add_argument('-t','--threshold', type=float, dest='th', default=0.0, help='Threshold')
