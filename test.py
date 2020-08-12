@@ -1,12 +1,20 @@
 #!/usr/bin/env  python
-import os, sys, subprocess
+import os, sys, subprocess, argparse
 
 
 def get_options():
+	parser = argparse.ArgumentParser(description='Test DDG rediction performance')
+	parser.add_argument('filedata', type=str, help='Input file')
+	parser.add_argument('-s','--set', type=str, dest='tset', default='all', help='Test sets')
+	parser.add_argument('-t','--threshold', type=float, dest='th', default=0.0, help='Threshold')
+	args = parser.parse_args()
+	filedata = args.filedata
+	tset = args.tset
+	th = args.th
 	prog_dir=os.path.abspath(os.path.dirname(__file__))
 	data_dir=prog_dir+'/data'
 	prog_test=prog_dir+'/scripts/test-ddg-ml.py'
-	return prog_dir,data_dir,prog_test
+	return filedata,tset.lower(),th,prog_dir,data_dir,prog_test
 	
 
 def run_process(cmd):
@@ -21,7 +29,7 @@ def run_vb1432(filedata,th=0.0):
 	bcmd=[prog_test]
 	if th!=None: bcmd=bcmd+['-t'+str(th)]
 	print '# CV-10 VB1432'
-	for i in range(1):
+	for i in range(10):
 		cmd=bcmd+[filedata,prog_dir+'/VB1432/vb1432-10fold-split-'+str(i)+'.tsv']
 		out=run_process(cmd)
 		if out: print out
@@ -88,7 +96,8 @@ def test_libs():
 if __name__ == '__main__':
 	global prog_dir,data_dir,prog_test
 	test_libs()
-	filedata=sys.argv[1]
-	prog_dir,data_dir,prog_test=get_options()
-	run_vb1432(filedata)
-	run_s2648(filedata)
+	filedata,tset,th,prog_dir,data_dir,prog_test=get_options()
+	if tset=='all' or tset=='vb1432':
+		run_vb1432(filedata,th)
+	if tset=='all' or tset=='s2648':
+		run_s2648(filedata,th)
