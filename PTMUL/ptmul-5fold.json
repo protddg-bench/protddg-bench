@@ -3523,7 +3523,7 @@
     "SET": "SET_2", 
     "CLUID": "1LVEA", 
     "PDB": "1LVEA", 
-    "MUTS": "M4L;Y31D", 
+    "MUTS": "M4L;Y27DD", 
     "DDG": "2.1", 
     "NMUT": "2"
   }, 
@@ -3531,7 +3531,7 @@
     "SET": "SET_2", 
     "CLUID": "1LVEA", 
     "PDB": "1LVEA", 
-    "MUTS": "M4L;Y31D;T100H", 
+    "MUTS": "M4L;Y27DD;T94H", 
     "DDG": "4.4", 
     "NMUT": "3"
   }, 
@@ -3539,7 +3539,7 @@
     "SET": "SET_2", 
     "CLUID": "1LVEA", 
     "PDB": "1LVEA", 
-    "MUTS": "Q44D;Y31D", 
+    "MUTS": "Q38D;Y27DD", 
     "DDG": "1.5", 
     "NMUT": "2"
   }, 
@@ -3547,7 +3547,7 @@
     "SET": "SET_2", 
     "CLUID": "1LVEA", 
     "PDB": "1LVEA", 
-    "MUTS": "Q44N;Y31D", 
+    "MUTS": "Q28N;Y27DD", 
     "DDG": "1.9", 
     "NMUT": "2"
   }, 
@@ -3555,7 +3555,7 @@
     "SET": "SET_2", 
     "CLUID": "1LVEA", 
     "PDB": "1LVEA", 
-    "MUTS": "Q95D;Y31D", 
+    "MUTS": "Q89D;Y27DD", 
     "DDG": "2.6", 
     "NMUT": "2"
   }, 
@@ -3563,7 +3563,7 @@
     "SET": "SET_2", 
     "CLUID": "1LVEA", 
     "PDB": "1LVEA", 
-    "MUTS": "Q95D;Y31D;M4L;T100H", 
+    "MUTS": "Q89D;Y27DD;M4L;T94H", 
     "DDG": "-1.2", 
     "NMUT": "4"
   }, 
@@ -3571,7 +3571,7 @@
     "SET": "SET_2", 
     "CLUID": "1LVEA", 
     "PDB": "1LVEA", 
-    "MUTS": "Q95N;Y31D", 
+    "MUTS": "Q89N;Y27DD", 
     "DDG": "1.0", 
     "NMUT": "2"
   }, 
@@ -3579,7 +3579,7 @@
     "SET": "SET_2", 
     "CLUID": "1LVEA", 
     "PDB": "1LVEA", 
-    "MUTS": "Q95N;Y31D;M4L;T100H", 
+    "MUTS": "Q89N;Y27DD;M4L;T94H", 
     "DDG": "3.3", 
     "NMUT": "4"
   }, 
@@ -3587,7 +3587,7 @@
     "SET": "SET_2", 
     "CLUID": "1LVEA", 
     "PDB": "1LVEA", 
-    "MUTS": "Y31D;S35D", 
+    "MUTS": "Y27DD;S29D", 
     "DDG": "1.4", 
     "NMUT": "2"
   }, 
@@ -3595,7 +3595,7 @@
     "SET": "SET_2", 
     "CLUID": "1LVEA", 
     "PDB": "1LVEA", 
-    "MUTS": "Y31D;S35D;K36T", 
+    "MUTS": "Y27DD;S29D;K30T", 
     "DDG": "0.6", 
     "NMUT": "3"
   }, 
