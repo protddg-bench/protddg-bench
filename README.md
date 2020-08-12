@@ -27,8 +27,8 @@ DATASETS
                     triplicated in 17 and 1 cases. Data from PMID:28710274.
 
       4. Myoglobin: 134 variants from myoglobin from structure 1BZ6. Experimental data are 
-                    duplicated and triplicated in 14 and 3 cases respectively. 
-                    Data from PMID:26054434
+                    duplicated and triplicated in 14 and 3 cases respectively. The variation of                    unfolding free energy (DDG) was calculated changing the sign of the DDG
+                    reported in literarture. Data from PMID:26054434
                     
       5. P53:       42 variants from P53 structure 2OCJ. Data from PMID:24281696.
 
