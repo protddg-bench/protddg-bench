@@ -2,7 +2,7 @@
 
 INTRODUCTION
 
-      Emidio Capriotti and Ludovica Montanucci, 2020.
+      Emidio Capriotti, Ludovica Montanucci and Piero Fariselli, 2020.
       Scripts are licensed under the Creative Commons by NC-SA license.
 
       ProtDDG-Bench is a benchmarking resource for predictors of protein stability change. 
