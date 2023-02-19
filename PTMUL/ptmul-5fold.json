@@ -1652,7 +1652,7 @@
         "CLUID": "1EY0A",
         "PDB": "1STNA",
         "MUTS": "V66L;G88V",
-        "DDG": -0.585,
+        "DDG": -0.58,
         "NMUT": 2
     },
     {
@@ -1876,7 +1876,7 @@
         "CLUID": "1FLVA",
         "PDB": "1FLVA",
         "MUTS": "H34A;F7L",
-        "DDG": -1.175,
+        "DDG": -1.18,
         "NMUT": 2
     },
     {
@@ -1884,7 +1884,7 @@
         "CLUID": "1FLVA",
         "PDB": "1FLVA",
         "MUTS": "H34A;Y47F",
-        "DDG": -1.085,
+        "DDG": -1.08,
         "NMUT": 2
     },
     {
@@ -1892,7 +1892,7 @@
         "CLUID": "1FLVA",
         "PDB": "1FTGA",
         "MUTS": "E20K;E72K",
-        "DDG": 0.425,
+        "DDG": 0.42,
         "NMUT": 2
     },
     {
@@ -1932,7 +1932,7 @@
         "CLUID": "1RN1C",
         "PDB": "1RN1B",
         "MUTS": "Q25K;E58A",
-        "DDG": 0.365,
+        "DDG": 0.36,
         "NMUT": 2
     },
     {
@@ -2220,7 +2220,7 @@
         "CLUID": "2Q98A",
         "PDB": "2Q98A",
         "MUTS": "H27A;H180A",
-        "DDG": 2.315,
+        "DDG": 2.31,
         "NMUT": 2
     },
     {
@@ -2244,7 +2244,7 @@
         "CLUID": "2Q98A",
         "PDB": "2Q98A",
         "MUTS": "H30A;H173A",
-        "DDG": 2.615,
+        "DDG": 2.62,
         "NMUT": 2
     },
     {
@@ -2252,7 +2252,7 @@
         "CLUID": "2Q98A",
         "PDB": "2Q98A",
         "MUTS": "H30A;H173A;H180A",
-        "DDG": 2.425,
+        "DDG": 2.42,
         "NMUT": 3
     },
     {
@@ -2308,7 +2308,7 @@
         "CLUID": "3PGKA",
         "PDB": "3PGKA",
         "MUTS": "W308F;W333F",
-        "DDG": -7.525,
+        "DDG": -7.53,
         "NMUT": 2
     },
     {
@@ -2364,7 +2364,7 @@
         "CLUID": "1C2RA",
         "PDB": "1I5TA",
         "MUTS": "P30A;Y67F",
-        "DDG": -2.585,
+        "DDG": -2.58,
         "NMUT": 2
     },
     {
@@ -2396,7 +2396,7 @@
         "CLUID": "1C2RA",
         "PDB": "1YCCA",
         "MUTS": "G6A;N52I",
-        "DDG": -0.635,
+        "DDG": -0.64,
         "NMUT": 2
     },
     {
@@ -2484,7 +2484,7 @@
         "CLUID": "1C2RA",
         "PDB": "1YCCA",
         "MUTS": "T96A;C102T",
-        "DDG": -2.225,
+        "DDG": -2.23,
         "NMUT": 2
     },
     {
@@ -2572,7 +2572,7 @@
         "CLUID": "1CHKA",
         "PDB": "1CHKA",
         "MUTS": "W28F;W101F",
-        "DDG": -0.585,
+        "DDG": -0.58,
         "NMUT": 2
     },
     {
@@ -2580,7 +2580,7 @@
         "CLUID": "1DIVA",
         "PDB": "1DIVA",
         "MUTS": "F5V;K12M",
-        "DDG": -2.035,
+        "DDG": -2.04,
         "NMUT": 2
     },
     {
@@ -2604,7 +2604,7 @@
         "CLUID": "1HMEA",
         "PDB": "1HMEA",
         "MUTS": "G35H;N47H;D51H",
-        "DDG": 0.295,
+        "DDG": 0.29,
         "NMUT": 3
     },
     {
@@ -2644,7 +2644,7 @@
         "CLUID": "1HMEA",
         "PDB": "1HMEA",
         "MUTS": "N47H;D52H",
-        "DDG": 0.295,
+        "DDG": 0.29,
         "NMUT": 2
     },
     {
@@ -2652,7 +2652,7 @@
         "CLUID": "1HMEA",
         "PDB": "1HMEA",
         "MUTS": "S33H;N47H;D51H",
-        "DDG": -0.985,
+        "DDG": -0.98,
         "NMUT": 3
     },
     {
@@ -3036,7 +3036,7 @@
         "CLUID": "1VQBA",
         "PDB": "1VQBA",
         "MUTS": "V35A;I47F",
-        "DDG": -2.885,
+        "DDG": -2.88,
         "NMUT": 2
     },
     {
@@ -3044,7 +3044,7 @@
         "CLUID": "1VQBA",
         "PDB": "1VQBA",
         "MUTS": "V35A;I47L",
-        "DDG": -2.035,
+        "DDG": -2.04,
         "NMUT": 2
     },
     {
@@ -3052,7 +3052,7 @@
         "CLUID": "1VQBA",
         "PDB": "1VQBA",
         "MUTS": "V35A;I47M",
-        "DDG": -3.955,
+        "DDG": -3.96,
         "NMUT": 2
     },
     {
@@ -3100,7 +3100,7 @@
         "CLUID": "1VQBA",
         "PDB": "1VQBA",
         "MUTS": "V35I;I47M",
-        "DDG": -2.225,
+        "DDG": -2.23,
         "NMUT": 2
     },
     {
@@ -3132,7 +3132,7 @@
         "CLUID": "1VQBA",
         "PDB": "1VQBA",
         "MUTS": "V35L;I47M",
-        "DDG": -4.005,
+        "DDG": -4.0,
         "NMUT": 2
     },
     {
@@ -3148,7 +3148,7 @@
         "CLUID": "1VQBA",
         "PDB": "1VQBA",
         "MUTS": "V35M;I47F",
-        "DDG": -1.275,
+        "DDG": -1.27,
         "NMUT": 2
     },
     {
@@ -3332,7 +3332,7 @@
         "CLUID": "1ACBI",
         "PDB": "1ACBI",
         "MUTS": "V14A;V18A",
-        "DDG": -2.519,
+        "DDG": -2.52,
         "NMUT": 2
     },
     {
@@ -3340,7 +3340,7 @@
         "CLUID": "1ACBI",
         "PDB": "1ACBI",
         "MUTS": "V54A;V62A",
-        "DDG": -2.867,
+        "DDG": -2.87,
         "NMUT": 2
     },
     {
@@ -3436,7 +3436,7 @@
         "CLUID": "1BCXA",
         "PDB": "1BCXA",
         "MUTS": "V98C;A152C",
-        "DDG": -7.525,
+        "DDG": -7.53,
         "NMUT": 2
     },
     {
@@ -3612,7 +3612,7 @@
         "CLUID": "1PGAA",
         "PDB": "1PGAA",
         "MUTS": "I6A;T53E",
-        "DDG": 0.255,
+        "DDG": 0.26,
         "NMUT": 2
     },
     {
@@ -3636,7 +3636,7 @@
         "CLUID": "1PGAA",
         "PDB": "1PGAA",
         "MUTS": "I6E;T53E",
-        "DDG": -0.635,
+        "DDG": -0.64,
         "NMUT": 2
     },
     {
@@ -3644,7 +3644,7 @@
         "CLUID": "1PGAA",
         "PDB": "1PGAA",
         "MUTS": "I6E;T53R",
-        "DDG": 1.765,
+        "DDG": 1.76,
         "NMUT": 2
     },
     {
@@ -3684,7 +3684,7 @@
         "CLUID": "1PGAA",
         "PDB": "1PGAA",
         "MUTS": "I6K;T53A",
-        "DDG": 1.605,
+        "DDG": 1.6,
         "NMUT": 2
     },
     {
@@ -4188,7 +4188,7 @@
         "CLUID": "2RN2A",
         "PDB": "2RN2A",
         "MUTS": "K91R;D94E;K95G",
-        "DDG": 0.745,
+        "DDG": 0.74,
         "NMUT": 3
     },
     {
@@ -4252,7 +4252,7 @@
         "CLUID": "1BNIA",
         "PDB": "1BNIA",
         "MUTS": "D8A;D12A",
-        "DDG": -0.585,
+        "DDG": -0.58,
         "NMUT": 2
     },
     {
@@ -4260,7 +4260,7 @@
         "CLUID": "1BNIA",
         "PDB": "1BNIA",
         "MUTS": "D8A;D12A;R110A",
-        "DDG": 0.992,
+        "DDG": 0.99,
         "NMUT": 3
     },
     {
@@ -4412,7 +4412,7 @@
         "CLUID": "1BNIA",
         "PDB": "1BNIA",
         "MUTS": "T26H;D54N",
-        "DDG": -5.005,
+        "DDG": -5.0,
         "NMUT": 2
     },
     {
@@ -4572,7 +4572,7 @@
         "CLUID": "1CUNA",
         "PDB": "1AJ3A",
         "MUTS": "W22Y;S74L",
-        "DDG": -0.575,
+        "DDG": -0.57,
         "NMUT": 2
     },
     {
@@ -4788,7 +4788,7 @@
         "CLUID": "1MJCA",
         "PDB": "1C9OA",
         "MUTS": "F38W;L66C",
-        "DDG": -0.985,
+        "DDG": -0.98,
         "NMUT": 2
     },
     {
@@ -5164,7 +5164,7 @@
         "CLUID": "1MSIA",
         "PDB": "1MSIA",
         "MUTS": "R47A;D58N",
-        "DDG": -0.585,
+        "DDG": -0.58,
         "NMUT": 2
     },
     {
@@ -5236,7 +5236,7 @@
         "CLUID": "1RG8A",
         "PDB": "2AFGA",
         "MUTS": "C83S;C117S",
-        "DDG": -1.805,
+        "DDG": -1.8,
         "NMUT": 2
     },
     {
@@ -5252,7 +5252,7 @@
         "CLUID": "1RG8A",
         "PDB": "2AFGA",
         "MUTS": "H102Y;F108Y",
-        "DDG": 0.5805,
+        "DDG": 0.58,
         "NMUT": 2
     },
     {
@@ -5260,7 +5260,7 @@
         "CLUID": "1RG8A",
         "PDB": "2AFGA",
         "MUTS": "H21Y;F108Y",
-        "DDG": 0.7145,
+        "DDG": 0.71,
         "NMUT": 2
     },
     {
@@ -5268,7 +5268,7 @@
         "CLUID": "1RG8A",
         "PDB": "2AFGA",
         "MUTS": "H21Y;H102Y",
-        "DDG": 0.733,
+        "DDG": 0.73,
         "NMUT": 2
     },
     {
@@ -5276,7 +5276,7 @@
         "CLUID": "1RG8A",
         "PDB": "2AFGA",
         "MUTS": "H21Y;H102Y;F108Y",
-        "DDG": 1.0835,
+        "DDG": 1.08,
         "NMUT": 3
     },
     {
@@ -5284,7 +5284,7 @@
         "CLUID": "1RG8A",
         "PDB": "2AFGA",
         "MUTS": "H21Y;L44F",
-        "DDG": 0.992,
+        "DDG": 0.99,
         "NMUT": 2
     },
     {
@@ -5292,7 +5292,7 @@
         "CLUID": "1RG8A",
         "PDB": "2AFGA",
         "MUTS": "H21Y;L44F;F108Y",
-        "DDG": 1.2105,
+        "DDG": 1.21,
         "NMUT": 3
     },
     {
@@ -5300,7 +5300,7 @@
         "CLUID": "1RG8A",
         "PDB": "2AFGA",
         "MUTS": "H21Y;L44F;H102Y",
-        "DDG": 1.193,
+        "DDG": 1.19,
         "NMUT": 3
     },
     {
@@ -5308,7 +5308,7 @@
         "CLUID": "1RG8A",
         "PDB": "2AFGA",
         "MUTS": "H21Y;L44F;H102Y;F108Y",
-        "DDG": 1.4625,
+        "DDG": 1.46,
         "NMUT": 4
     },
     {
@@ -5324,7 +5324,7 @@
         "CLUID": "1RG8A",
         "PDB": "2AFGA",
         "MUTS": "L44F;F108Y",
-        "DDG": 0.6705,
+        "DDG": 0.67,
         "NMUT": 2
     },
     {
@@ -5332,7 +5332,7 @@
         "CLUID": "1RG8A",
         "PDB": "2AFGA",
         "MUTS": "L44F;H102Y",
-        "DDG": 0.683,
+        "DDG": 0.68,
         "NMUT": 2
     },
     {
@@ -5340,7 +5340,7 @@
         "CLUID": "1RG8A",
         "PDB": "2AFGA",
         "MUTS": "L44F;H102Y;F108Y",
-        "DDG": 0.9475,
+        "DDG": 0.95,
         "NMUT": 3
     },
     {
@@ -5516,7 +5516,7 @@
         "CLUID": "1SHGA",
         "PDB": "1SHGA",
         "MUTS": "K18Y;K59F;Y57F",
-        "DDG": 1.207,
+        "DDG": 1.21,
         "NMUT": 3
     },
     {
@@ -5604,7 +5604,7 @@
         "CLUID": "1SHGA",
         "PDB": "1SHGA",
         "MUTS": "Y13F;K18Y;K59F",
-        "DDG": -0.064,
+        "DDG": -0.06,
         "NMUT": 3
     },
     {
@@ -5612,7 +5612,7 @@
         "CLUID": "1SHGA",
         "PDB": "1SHGA",
         "MUTS": "Y13F;K18Y;K59F;Y57F",
-        "DDG": 0.072,
+        "DDG": 0.07,
         "NMUT": 4
     },
     {
@@ -5676,7 +5676,7 @@
         "CLUID": "1UWOA",
         "PDB": "1UWOA",
         "MUTS": "L3A;I11A",
-        "DDG": -2.165,
+        "DDG": -2.17,
         "NMUT": 2
     },
     {
@@ -5860,7 +5860,7 @@
         "CLUID": "1BVCA",
         "PDB": "1BVCA",
         "MUTS": "G65A;G73A",
-        "DDG": -0.125,
+        "DDG": -0.12,
         "NMUT": 2
     },
     {
@@ -5868,7 +5868,7 @@
         "CLUID": "1BVCA",
         "PDB": "1BVCA",
         "MUTS": "H24V;H119F",
-        "DDG": 0.575,
+        "DDG": 0.57,
         "NMUT": 2
     },
     {
