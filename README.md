@@ -96,7 +96,7 @@ DATASETS
 
 	 Training: not SET_i korpm-10fold-split-j.tsv -> Test: SET_i korpm-10fold-split-j.tsv
          Training: not Ssym  train-korpm-nossym.tsv  (1,807) -> Test: ssym-korpm.tsv
-         Training: not S461  train-korpm-nos461.tsv  (2,224)-> Test: s461-korpm.tsv
+         Training: not S461  train-korpm-nos461.tsv  (2,224) -> Test: s461-korpm.tsv
 
 
 CLUSTERING
