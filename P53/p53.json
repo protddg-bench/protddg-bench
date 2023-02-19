@@ -1,296 +1,296 @@
 [
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "Q104H", 
-    "DDG": "0.24"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "Q104P", 
-    "DDG": "0.11"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "T123A", 
-    "DDG": "-0.13"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "A129D", 
-    "DDG": "-0.7"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "A129E", 
-    "DDG": "-0.38"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "A129S", 
-    "DDG": "-0.19"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "M133L", 
-    "DDG": "0.30"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "F134L", 
-    "DDG": "-4.78"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "V143A", 
-    "DDG": "-3.5"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "L145Q", 
-    "DDG": "-2.98"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "D148E", 
-    "DDG": "-0.43"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "D148S", 
-    "DDG": "0.22"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "T150P", 
-    "DDG": "-0.08"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "P151S", 
-    "DDG": "-4.49"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "V157F", 
-    "DDG": "-3.88"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "Q165K", 
-    "DDG": "-1.27"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "Q167E", 
-    "DDG": "-0.43"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "H168R", 
-    "DDG": "-2.75"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "R174K", 
-    "DDG": "-0.22"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "R175A", 
-    "DDG": "-0.73"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "R175H", 
-    "DDG": "-3.52"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "C182S", 
-    "DDG": "0.16"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "I195T", 
-    "DDG": "-4.12"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "L201P", 
-    "DDG": "0.35"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "V203A", 
-    "DDG": "0.49"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "L206S", 
-    "DDG": "-0.1"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "Y220C", 
-    "DDG": "-3.98"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "D228E", 
-    "DDG": "0.05"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "I232T", 
-    "DDG": "-3.19"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "Y236F", 
-    "DDG": "0.27"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "M237I", 
-    "DDG": "-3.18"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "N239Y", 
-    "DDG": "1.49"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "C242S", 
-    "DDG": "-3.07"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "G245S", 
-    "DDG": "-1.21"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "R248Q", 
-    "DDG": "-1.87"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "R249S", 
-    "DDG": "-1.92"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "I255F", 
-    "DDG": "-3.29"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "S260P", 
-    "DDG": "-0.32"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "N268D", 
-    "DDG": "1.21"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "F270C", 
-    "DDG": "-4.54"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "R273H", 
-    "DDG": "-0.45"
-  }, 
-  {
-    "SET": "TEST_P53", 
-    "CLUID": "2AC0A", 
-    "PDB": "2OCJA", 
-    "MUT": "R282W", 
-    "DDG": "-3.3"
-  }
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "Q104H",
+        "DDG": 0.24
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "Q104P",
+        "DDG": 0.11
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "T123A",
+        "DDG": -0.13
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "A129D",
+        "DDG": -0.7
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "A129E",
+        "DDG": -0.38
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "A129S",
+        "DDG": -0.19
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "M133L",
+        "DDG": 0.3
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "F134L",
+        "DDG": -4.78
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "V143A",
+        "DDG": -3.5
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "L145Q",
+        "DDG": -2.98
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "D148E",
+        "DDG": -0.43
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "D148S",
+        "DDG": 0.22
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "T150P",
+        "DDG": -0.08
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "P151S",
+        "DDG": -4.49
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "V157F",
+        "DDG": -3.88
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "Q165K",
+        "DDG": -1.27
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "Q167E",
+        "DDG": -0.43
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "H168R",
+        "DDG": -2.75
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "R174K",
+        "DDG": -0.22
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "R175A",
+        "DDG": -0.73
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "R175H",
+        "DDG": -3.52
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "C182S",
+        "DDG": 0.16
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "I195T",
+        "DDG": -4.12
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "L201P",
+        "DDG": 0.35
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "V203A",
+        "DDG": 0.49
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "L206S",
+        "DDG": -0.1
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "Y220C",
+        "DDG": -3.98
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "D228E",
+        "DDG": 0.05
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "I232T",
+        "DDG": -3.19
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "Y236F",
+        "DDG": 0.27
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "M237I",
+        "DDG": -3.18
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "N239Y",
+        "DDG": 1.49
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "C242S",
+        "DDG": -3.07
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "G245S",
+        "DDG": -1.21
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "R248Q",
+        "DDG": -1.87
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "R249S",
+        "DDG": -1.92
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "I255F",
+        "DDG": -3.29
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "S260P",
+        "DDG": -0.32
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "N268D",
+        "DDG": 1.21
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "F270C",
+        "DDG": -4.54
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "R273H",
+        "DDG": -0.45
+    },
+    {
+        "SET": "TEST_P53",
+        "CLUID": "2AC0A",
+        "PDB": "2OCJA",
+        "MUT": "R282W",
+        "DDG": -3.3
+    }
 ]
