@@ -27,13 +27,16 @@ DATASETS
                     triplicated in 17 and 1 cases. Data from PMID:28710274.
 
       4. Myoglobin: 134 variants from myoglobin from structure 1BZ6. Experimental data are 
-                    duplicated and triplicated in 14 and 3 cases respectively. The variation of                    unfolding free energy (DDG) was calculated changing the sign of the DDG
+                    duplicated and triplicated in 14 and 3 cases respectively. The variation of                    
+                    unfolding free energy (DDG) was calculated changing the sign of the DDG
                     reported in literarture. Data from PMID:26054434
                     
       5. P53:       42 variants from P53 structure 2OCJ. Data from PMID:24281696.
 
       6. PTMUL:     914 multiple site variants from 91 protein structures and 77 clusters.
                     PMID:31266447.
+      7. KORPM:     2,371 mutations from 129 protein famileis with sequence identity <25%.  
+                    PMID:36629451.
 
 
      - The directory S2648 and VB1432 contains 10 files for 10-folds cross-validation tests.
