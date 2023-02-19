@@ -94,7 +94,7 @@ DATASETS
        Ssym and S461.
        The tests on this dataset can be performed as follow:
 
-	 Training: not SET_i korpm-10fold-split-j.tsv -> Test: SET_i korpm-10fold-split-j.tsv
+         Training: not SET_i korpm-10fold-split-j.tsv -> Test: SET_i korpm-10fold-split-j.tsv
          Training: not Ssym  train-korpm-nossym.tsv  (1,807) -> Test: ssym-korpm.tsv
          Training: not S461  train-korpm-nos461.tsv  (2,224) -> Test: s461-korpm.tsv
 
