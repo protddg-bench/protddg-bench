@@ -105,7 +105,7 @@ CLUSTERING
      The clustering is obtained using blastclust with the options -S 25 -L 0.5 -b F.
      
      On the korpm dataset proteins are clustered in 129 groups using MMseq with 25% 
-     sequence identity cutoff of
+     sequence identity cutoff.
 
 TESTING
 
