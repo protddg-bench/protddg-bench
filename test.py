@@ -30,7 +30,7 @@ def run_process(cmd):
 
 def run_vb1432(filedata,outfile='',th=0.0):
 	bcmd=[prog_test]
-	if th!=None: bcmd=bcmd+['-t'+str(th)]
+	if th!=None: bcmd=bcmd+['-t '+str(th)]
 	print ('# CV-10 VB1432')
 	for i in range(10):
 		cmd=bcmd+[filedata,prog_dir+'/VB1432/vb1432-10fold-split-'+str(i)+'.tsv']
@@ -66,7 +66,7 @@ def run_vb1432(filedata,outfile='',th=0.0):
 def run_s2648(filedata,outfile='',th=0.0):
 	print ("# CV-10 S2648")
 	bcmd=[prog_test]
-	if th!=None: bcmd=bcmd+['-t'+str(th)]
+	if th!=None: bcmd=bcmd+['-t '+str(th)]
 	for i in range(10):
 		cmd=bcmd+[filedata,prog_dir+'/S2648/s2648-10fold-split-'+str(i)+'.tsv']
 		if outfile!='': cmd=cmd+['-o',outfile+'-s2648-10fold-split'+str(i)+'-out']
@@ -98,6 +98,31 @@ def run_s2648(filedata,outfile='',th=0.0):
 	if out: print (out.decode())
 
 
+def run_korpm(filedata,outfile='',th=0.0):
+	print ("# CV-10 KORPM")
+	bcmd=[prog_test]
+	if th!=None: bcmd=bcmd+['-t '+str(th)]
+	for i in range(10):
+		cmd=bcmd+[filedata,prog_dir+'/KORPM/korpm-10fold-split-'+str(i)+'.tsv']
+		if outfile!='': cmd=cmd+['-o',outfile+'-korpm-10fold-split-'+str(i)+'-out']
+                out=run_process(cmd)
+                if out: print (out.decode())
+	print ("# PREDICT SSYM WITH KORPM")
+	cmd=bcmd+['--sym','--train',prog_dir+'/KORPM/train-korpm-test-ssym.tsv']
+	cmd=cmd+[filedata,prog_dir+'/KORPM/ssym-korpm.tsv','-n']
+	if outfile!='': cmd=cmd+['-o',outfile+'-korpm-ssym-out']
+	out=run_process(cmd)
+	if out: print (out.decode())
+	print ("# PREDICT S461 WITH KORPM")
+	cmd=bcmd+['--train',prog_dir+'/KORPM/train-korpm-test-s461.tsv']
+	cmd=cmd+[filedata,prog_dir+'/KORPM/s461-korpm.tsv','-n']
+	if outfile!='': cmd=cmd+['-o',outfile+'-korpm-s461-out']
+	out=run_process(cmd)
+	if out: print (out.decode())
+	
+
+
+
 def test_libs():
 	try:
 		import numpy, scipy, sklearn
@@ -114,3 +139,5 @@ if __name__ == '__main__':
 		run_vb1432(filedata,outfile,th)
 	if tset=='all' or tset=='s2648':
 		run_s2648(filedata,outfile,th)
+	if tset=='all' or tset=='korpm':
+		run_korpm(filedata,outfile,th)
