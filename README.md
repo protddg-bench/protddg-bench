@@ -47,7 +47,7 @@ DATASETS
          Training: not SET_i s2648-10fold-split-j.tsv  -> Test: SET_i vb1432-10fold-split-j.tsv
 
 
-     - The directory BROOM contains a 5-fold split of the BROOM dataset. Given the numeber of mutations
+     - The directory BROOM contains a 5-fold split of the BROOM dataset. Given the number of mutations
        mutations form the same cluster the set has been diveded in 5 subsets. 
        The test on this dataset can be performed as follow:
 
@@ -79,9 +79,9 @@ DATASETS
          Training: train-s2648-test-p53.tsv        (2643) -> Test: p53.tsv
 
 
-     - This directory contains files for testing predictions on multiple site mutations starting from  
+     - The directory PTMUL contains files for testing predictions on multiple site mutations starting from  
        a training on a set single point mutations.
-       The directory PTMUL contains a 5-fold split of the PTMUL dataset. Given the numeber of mutations
+       The directory also includes a 5-fold split of the PTMUL dataset. Given the number of mutations
        mutations form the same cluster the set has been diveded in 5 subsets.
        The test on this dataset can be performed as follow:
 
@@ -89,11 +89,23 @@ DATASETS
          Training: not SET_i train-s2648-test-ptmul.tsv  -> Test: SET_i ptmul-5fold.tsv
 
 
+     - The directory KORPM contains 10 files for 10-folds cross-validation tests. 
+       Furtermore it contains 2 training and 2 testing files. The testing file are 
+       Ssym and S461.
+       The tests on this dataset can be performed as follow:
+
+	 Training: not SET_i korpm-10fold-split-j.tsv -> Test: SET_i korpm-10fold-split-j.tsv
+         Training: not Ssym  train-korpm-nossym.tsv  (1,807) -> Test: ssym-korpm.tsv
+         Training: not S461  train-korpm-nos461.tsv  (2,224)-> Test: s461-korpm.tsv
+
+
 CLUSTERING
 
      The file data/cluster-545-pdbchains.txt contains 132 clusters of 545 PDB chains. 
      The clustering is obtained using blastclust with the options -S 25 -L 0.5 -b F.
-
+     
+     On the korpm dataset proteins are clustered in 129 groups using MMseq with 25% 
+     sequence identity cutoff of
 
 TESTING
 
