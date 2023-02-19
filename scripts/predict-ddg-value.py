@@ -1,4 +1,6 @@
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
+
+from __future__ import print_function
 import sys, argparse
 import numpy as np
 from sklearn.linear_model import LinearRegression
@@ -31,8 +33,7 @@ def run_regression(X_test,X_train,y_test,y_train):
 	y_pred = lm.predict(X_test)
 	coef=lm.coef_
 	intercept=lm.intercept_
-	#print coef,intercept
-        return lm,y_pred
+	return lm,y_pred
 
 
 def read_input_file(namefile,pe=0,pks=1,pke=None):
@@ -40,6 +41,7 @@ def read_input_file(namefile,pe=0,pks=1,pke=None):
 	X=[]
 	f=open(namefile,'r')
 	for line in f:
+		if line.find('#')==0: continue
 		v=line.rstrip().split()
 		if pke==None: pke=len(v)
 		y.append(float(v[pe]))
@@ -50,7 +52,7 @@ def read_input_file(namefile,pe=0,pks=1,pke=None):
 def print_output(y,y_pred):
 	assert len(y)==len(y_pred)
 	for i in range(len(y)):
-		print str(y[i])+'\t'+str(y_pred[i])
+		print (str(y[i])+'\t'+str(y_pred[i]))
 
 
 

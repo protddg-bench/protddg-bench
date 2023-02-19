@@ -1,5 +1,6 @@
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 
+from __future__ import print_function
 import sys, argparse, warnings
 import numpy as np
 from scipy import stats
@@ -7,17 +8,17 @@ from sklearn import metrics
 warnings.filterwarnings('ignore')
 
 def get_options():
-        parser = argparse.ArgumentParser(description='Calculate prediction performances')
-        parser.add_argument('filename', type=str, help='Prediction file')
-        parser.add_argument('--py','--pos-real', type=int, dest='py', default=-1, help='Column real values')
-        parser.add_argument('--px','--pos-pred', type=int, dest='px', default=0, help='Column prediction values')
+	parser = argparse.ArgumentParser(description='Calculate prediction performances')
+	parser.add_argument('filename', type=str, help='Prediction file')
+	parser.add_argument('--py','--pos-real', type=int, dest='py', default=-1, help='Column real values')
+	parser.add_argument('--px','--pos-pred', type=int, dest='px', default=0, help='Column prediction values')
 	parser.add_argument('-t', '--threshold' , type=float, dest='th', default=None, help='Classification threshold')
 	parser.add_argument('--sym', type=str, dest='idata', default='', help='Prediction file')
 	args = parser.parse_args()
 	filename=args.filename
-        i_real=args.py-1
-        i_pred=args.px-1
-        th=args.th
+	i_real=args.py-1
+	i_pred=args.px-1
+	th=args.th
 	idata=args.idata
 	return filename,i_real,i_pred,th,idata
 
@@ -35,7 +36,7 @@ def get_reg_scores(y_real,y_pred):
 		mae=np.mean(np.absolute(y - x_i))
 		scores=(rpe[0],rsp[0],rkt[0],rmse,mae,n)
 	else:
-		print >> sys.stderr,'ERROR: Incorrect predictions.'
+		print ('ERROR: Incorrect predictions.', file=sys.stderr)
 	return scores
 
 
@@ -59,7 +60,7 @@ def get_class_scores(y_pred,y_real,th,h=True):
 			auc=0.0
 		scores=(acc,mc,f1,auc,n)
 	else:
-		print >> sys.stderr,'ERROR: Incorrect predictions.'
+		print ('ERROR: Incorrect predictions.', file=sys.stderr)
 	return scores
 
 
@@ -75,7 +76,7 @@ def read_output(fileout,pos_real=0,pos_pred=1):
 			vx.append(x)
 			vy.append(y)
 		except:
-			print >> sys.stderr,'ERROR: Incorrect line',line.rstrip()
+			print ('ERROR: Incorrect line '+line.decode().rstrip(), file=sys.stderr)
 	return np.array(vx),np.array(vy)
 
 
@@ -115,7 +116,7 @@ def get_sym_scores(fileout,idata,ids1=[0,1],ids2=[2,3]):
 			delta=delta+vs1[0][-1]+vs2[0][-1]
 			adelta=adelta+np.abs(vs1[0][-1]+vs2[0][-1])
 		else:
-			print >> sys.stderr,'WARNING: No direct/inverse label for mutation ID.'
+			print ('WARNING: No direct/inverse label for mutation ID.', file=sys.stderr)
 	rpe=stats.pearsonr(v1,v2)[0]
 	if len(v1)>0: 
 		scores=(rpe,delta/(2*len(v1)),len(v1))
@@ -128,18 +129,18 @@ if __name__ == '__main__':
 	vx,vy=read_output(fileout,i_real,i_pred)
 	reg_scores=get_reg_scores(vy,vx)
 	if reg_scores: 
-		print 'PEARSONR: %.3f SPEARMANR: %.3f KENDALLTAU: %.3f RMSE: %.2f MAE: %.2f' %reg_scores[:5],
+		print ('PEARSONR: %.3f SPEARMANR: %.3f KENDALLTAU: %.3f RMSE: %.2f MAE: %.2f' %reg_scores[:5],end=' ')
 	if th!=None:
 		class_scores=get_class_scores(vy,vx,th)
 		if class_scores: 
-			print  'TH: %.2f' %th+' Q2: %.2f MCC: %.2f F1: %.2f AUC: %.2f' %class_scores[:4],
-	if reg_scores: print 'N: %d' %reg_scores[-1]
+			print ('TH: %.2f' %th+' Q2: %.2f MCC: %.2f F1: %.2f AUC: %.2f' %class_scores[:4],end=' ')
+	if reg_scores: print( 'N: %d' %reg_scores[-1])
 	if idata:	
 		scores=get_sym_scores(fileout,idata)
 		if scores:
-			print 'SYMMETRY-SCORES  R-DIR/ENV: %.2f BIAS: %.2f N: %d' %scores
+			print ('SYMMETRY-SCORES  R-DIR/ENV: %.2f BIAS: %.2f N: %d' %scores)
 		else:
-			print >> sys.stderr,'ERROR: Check for ID and DIR/INV annotation your input data.'
+			print ('ERROR: Check for ID and DIR/INV annotation your input data.', file=sys.stderr)
 	
 
 	

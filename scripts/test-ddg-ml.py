@@ -1,13 +1,14 @@
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
+
+from __future__ import print_function
 import os, sys, tempfile, argparse, subprocess
 from scipy import stats
-from commands import getstatusoutput
 
 
 
 def get_options():
-        parser = argparse.ArgumentParser(description='Test DDG rediction performance')
-        parser.add_argument('filedata', type=str, help='Input file')
+	parser = argparse.ArgumentParser(description='Test DDG rediction performance')
+	parser.add_argument('filedata', type=str, help='Input file')
 	parser.add_argument('dataset', type=str, help='Dataset file')
 	parser.add_argument('--train', type=str, dest='train', default='', help='Training file')
 	parser.add_argument('-o','--output', type=str, dest='outfile', default='', help='Output file')
@@ -24,7 +25,7 @@ def get_options():
 	args = parser.parse_args()	
 	filedata=args.filedata
 	dataset=args.dataset
-        th=args.th
+	th=args.th
 	nocheck=args.nocheck
 	train=args.train
 	outfile=args.outfile
@@ -42,13 +43,21 @@ def get_options():
 	return filedata,dataset,train,valt,nocheck,outfile,th,sym,(pi,pd),(ps,vpos,pe),tmp_dir,ml_prog,sc_prog 
 
 
+def getstatusoutput(cmd):
+	cmd=cmd.split()
+	p = subprocess.Popen(cmd)
+	stdout, stderr = p.communicate()
+	stderr=subprocess.STDOUT
+	return p.returncode, stderr
+
+
 def run_ml(test_file,train_file):
 	vout=[[],[]]
 	cmd=[ml_prog,test_file,train_file]
 	proc = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 	stdout, stderr = proc.communicate()
 	if stdout.rstrip():
-		lines=stdout.split('\n')
+		lines=stdout.decode().split('\n')
 		for line in lines:
 			if len(line)==0: continue
 			v=line.split()
@@ -58,10 +67,10 @@ def run_ml(test_file,train_file):
 				vout[0].append(y_real)
 				vout[1].append(y_pred)
 			except:
-				print >> sys.stderr,'WARNING: Incorrect prediction',line
+				print ('WARNING: Incorrect prediction '+line, file=sys.stderr)
 		#getstatusoutput('rm '+test_file+' '+train_file)
 	else:
-		print >> sys.stderr,'ERROR:',stderr
+		print ('ERROR: '+stderr.decode(), file=sys.stderr)
 	return vout
 	
 	
@@ -79,7 +88,7 @@ def get_data(filedata,pos_ids=2,pos_data=2):
 		if len(v)==n:
 			data[tuple(v[:pos_ids])]=v[pos_data:]
 		else:
-			print >> sys.stderr,'ERROR: Line',c,'contains different elements than header.'
+			print ('ERROR: Line '+str(c)+' contains different elements than header.', file=sys.stderr)
 	return data
 	
 
@@ -96,7 +105,7 @@ def match_set(fileset,data,pos_set=0,vpos=[2,3],pos_ddg=4):
 		if data.get(ituple,None):
 			dsplit[nset].append([ituple,v[pos_ddg]]+data[ituple])
 		else:
-			print >> sys.stderr,'WARNING: Data of',str(ituple),'not avalible'
+			print ('WARNING: Data of '+str(ituple)+' not avalible',  file=sys.stderr)
 	return dsplit
 	
 
@@ -106,10 +115,12 @@ def test_perfromance(filedata,filetest,filetrain,pdata=(2,2),pset=(0,[2,3],4)):
 	data=get_data(filedata,pdata[0],pdata[1])
 	dtest=match_set(filetest,data,pset[0],pset[1],pset[2])
 	dtrain=match_set(filetrain,data,pset[0],pset[1],pset[2])
-	if len(dtest.values()[0])>0 and len(dtest.values()[0])>0:
-		text_test='\n'.join(['\t'.join(vs[1:]) for vs in dtest.values()[0]])
-		idat=['\t'.join(list(vs[0])) for vs in dtest.values()[0]]
-		text_train='\n'.join(['\t'.join(vs[1:]) for vs in dtrain.values()[0]])
+	vals=list(dtest.values())
+	if len(vals[0])>0 and len(vals[0])>0:
+		text_test='\n'.join(['\t'.join(vs[1:]) for vs in vals[0]])
+		idat=['\t'.join(list(vs[0])) for vs in vals[0]]
+		tvals=list(dtrain.values())
+		text_train='\n'.join(['\t'.join(vs[1:]) for vs in tvals[0]])
 		name_test=tmp_dir+'/'+os.path.basename(filetest)+'.test'
 		ftest=open(name_test,'w')
 		ftest.write(text_test)
@@ -131,7 +142,7 @@ def cross_validation_sets(filedata,filetest,filetrain,pdata=(2,2),pset=(0,[2,3],
 	data=get_data(filedata,pdata[0],pdata[1])
 	dtest=match_set(filetest,data,pset[0],pset[1],pset[2])
 	dtrain=match_set(filetrain,data,pset[0],pset[1],pset[2])
-	ks=dtest.keys()
+	ks=list(dtest.keys())
 	ks.sort()
 	for ki in ks:
 		text_test[ki]='\n'.join(['\t'.join(vs[1:]) for vs in dtest[ki]])
@@ -162,7 +173,7 @@ def cross_validation(filedata,fileset,pdata=(2,2),pset=(0,[2,3],4)):
 	dtext={}
 	data=get_data(filedata,pdata[0],pdata[1])
 	dsplit=match_set(fileset,data,pset[0],pset[1],pset[2])
-	ks=dsplit.keys()
+	ks=list(dsplit.keys())
 	ks.sort()
 	for ki in ks:
 		dtext[ki]='\n'.join(['\t'.join(vs[1:]) for vs in dsplit[ki]])
@@ -193,7 +204,7 @@ def cross_validation_tv(filedata,fileset,pdata=(2,2),pset=(0,[2,3],4)):
 	dtext={}
 	data=get_data(filedata,pdata[0],pdata[1])
 	dsplit=match_set(fileset,data,pset[0],pset[1],pset[2])
-	ks=dsplit.keys()
+	ks=list(dsplit.keys())
 	ks.sort()
 	n=len(ks)
 	for i in range(n):
@@ -251,11 +262,11 @@ def run_eva(outfile,sym,dataset,th):
 	if th!=None:
 		cmd=cmd+['-t',str(th)]
 	cmd=cmd+[outfile]
-	#print cmd
+	#print (cmd)
 	proc = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 	stdout, stderr = proc.communicate()
 	if stderr:
-		print >> sys.stderr,'ERROR:',stderr
+		print ('ERROR: '+stderr.decode(),  file=sys.stderr)
 	return stdout.rstrip()
 	
 
@@ -284,8 +295,8 @@ if __name__ == '__main__':
 			outfile=doutfile+'.test'
 		write_output(outfile,all_out)
 		out=run_eva(outfile,sym,dataset,th)
-		for line in out.split('\n'):
-			print out_text,line
+		for line in out.decode().split('\n'):
+			print (out_text+' '+line)
 		if valt and  len(val_out[1])>0:
 			if not doutfile: 
 				outfile=tmp_dir+'/'+os.path.basename(dataset)+'.val'
@@ -294,10 +305,10 @@ if __name__ == '__main__':
 			write_output(outfile,val_out)
 			out=run_eva(outfile,sym,dataset,th)
 			for line in out.split('\n'):
-				print val_text,line
+				print (val_text+' '+line)
 	else:
-		print >> sys.stderr,'ERROR: No prediction found check your testing and training sets.'
-	#print tmp_dir
+		print ('ERROR: No prediction found check your testing and training sets.', file=sys.stderr)
+	#print (tmp_dir)
 	getstatusoutput('rm -r '+tmp_dir)
 
 	
