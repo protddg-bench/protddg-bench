@@ -33,8 +33,8 @@ DATASETS
                     
       5. P53:       42 variants from P53 structure 2OCJ. Data from PMID:24281696.
 
-      6. KORPM:     2,371 mutations from 129 protein families with sequence identity <25%.
-                    PMID:36629451.
+      6. KORPM:     2,371 mutations from 129 protein families with sequence identity <25%
+                    and a testing set of 461 mutants. PMID:36629451.
 
       7. PTMUL:     914 multiple site variants from 91 protein structures and 77 clusters.
                     PMID:31266447.
