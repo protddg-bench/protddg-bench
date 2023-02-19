@@ -33,10 +33,11 @@ DATASETS
                     
       5. P53:       42 variants from P53 structure 2OCJ. Data from PMID:24281696.
 
-      6. PTMUL:     914 multiple site variants from 91 protein structures and 77 clusters.
-                    PMID:31266447.
-      7. KORPM:     2,371 mutations from 129 protein famileis with sequence identity <25%.  
+      6. KORPM:     2,371 mutations from 129 protein families with sequence identity <25%.
                     PMID:36629451.
+
+      7. PTMUL:     914 multiple site variants from 91 protein structures and 77 clusters.
+                    PMID:31266447.
 
 
      - The directory S2648 and VB1432 contains 10 files for 10-folds cross-validation tests.
@@ -79,6 +80,16 @@ DATASETS
          Training: train-s2648-test-p53.tsv        (2643) -> Test: p53.tsv
 
 
+     - The directory KORPM contains 10 files for 10-folds cross-validation tests.
+       Furtermore it contains 2 training and 2 testing files. The testing file are
+       Ssym and S461.
+       The tests on this dataset can be performed as follow:
+
+         Training: not SET_i korpm-10fold-split-j.tsv -> Test: SET_i korpm-10fold-split-j.tsv
+         Training: not Ssym  train-korpm-nossym.tsv  (1,807) -> Test: ssym-korpm.tsv
+         Training: not S461  train-korpm-nos461.tsv  (2,224) -> Test: s461-korpm.tsv
+
+
      - The directory PTMUL contains files for testing predictions on multiple site mutations starting from  
        a training on a set single point mutations.
        The directory also includes a 5-fold split of the PTMUL dataset. Given the number of mutations
@@ -89,16 +100,6 @@ DATASETS
          Training: not SET_i train-s2648-test-ptmul.tsv  -> Test: SET_i ptmul-5fold.tsv
 
 
-     - The directory KORPM contains 10 files for 10-folds cross-validation tests. 
-       Furtermore it contains 2 training and 2 testing files. The testing file are 
-       Ssym and S461.
-       The tests on this dataset can be performed as follow:
-
-         Training: not SET_i korpm-10fold-split-j.tsv -> Test: SET_i korpm-10fold-split-j.tsv
-         Training: not Ssym  train-korpm-nossym.tsv  (1,807) -> Test: ssym-korpm.tsv
-         Training: not S461  train-korpm-nos461.tsv  (2,224) -> Test: s461-korpm.tsv
-
-
 CLUSTERING
 
      The file data/cluster-545-pdbchains.txt contains 132 clusters of 545 PDB chains. 
@@ -106,6 +107,7 @@ CLUSTERING
      
      On the korpm dataset proteins are clustered in 129 groups using MMseq with 25% 
      sequence identity cutoff.
+
 
 TESTING
 
