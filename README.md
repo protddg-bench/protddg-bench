@@ -81,7 +81,7 @@ DATASETS
 
 
      - The directory KORPM contains 10 files for 10-folds cross-validation tests.
-       Furtermore it contains 2 training and 2 testing files. The testing file are
+       Furtermore it contains 2 training and 2 testing files. The testing files are
        Ssym and S461.
        The tests on this dataset can be performed as follow:
 
