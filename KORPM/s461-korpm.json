@@ -1,0 +1,3229 @@
+[
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1A0FA",
+        "MUT": "S11A",
+        "DDG": -1.8
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1BA3A",
+        "MUT": "H461D",
+        "DDG": -1.745
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1BA3A",
+        "MUT": "H489D",
+        "DDG": 0.287
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1BA3A",
+        "MUT": "H489K",
+        "DDG": -0.287
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1BA3A",
+        "MUT": "H489M",
+        "DDG": -0.263
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1BFMA",
+        "MUT": "M35W",
+        "DDG": -0.7
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1BFMA",
+        "MUT": "M35Y",
+        "DDG": -0.4
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1BNLA",
+        "MUT": "D76A",
+        "DDG": -0.821
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "D23A",
+        "DDG": -0.46
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "D23N",
+        "DDG": -0.58
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "D8N",
+        "DDG": -0.3
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "E100A",
+        "DDG": -0.98
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "E100G",
+        "DDG": -1.52
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "E17Q",
+        "DDG": -0.21
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "E38Q",
+        "DDG": -0.56
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "E48Q",
+        "DDG": 0.03
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "E54Q",
+        "DDG": 0.33
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "H106Q",
+        "DDG": -1.53
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "H134Q",
+        "DDG": -0.34
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "H144Q",
+        "DDG": -0.56
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "I115A",
+        "DDG": -3.52
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "I121A",
+        "DDG": -2.88
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "I4A",
+        "DDG": -2.22
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "I4V",
+        "DDG": -0.59
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "I79A",
+        "DDG": -3.49
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "I93A",
+        "DDG": -3.19
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "I98A",
+        "DDG": -4.28
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "K10M",
+        "DDG": 0.05
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "K14M",
+        "DDG": 0.01
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "K15M",
+        "DDG": -0.31
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "K7M",
+        "DDG": 0.35
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "K96A",
+        "DDG": 0.61
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "K96G",
+        "DDG": -0.2
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "L102A",
+        "DDG": -2.37
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "L108A",
+        "DDG": -2.33
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "L110A",
+        "DDG": -3.21
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "L117A",
+        "DDG": -0.82
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "L133A",
+        "DDG": -2.94
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "L141A",
+        "DDG": -3.56
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "L30A",
+        "DDG": -2.76
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "L30V",
+        "DDG": -3.62
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "L6A",
+        "DDG": -3.1
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "L6I",
+        "DDG": -0.13
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "L6V",
+        "DDG": -0.41
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "L72A",
+        "DDG": -3.77
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "M1A",
+        "DDG": -1.46
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "M1G",
+        "DDG": -2.36
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "V129A",
+        "DDG": -1.81
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "V131A",
+        "DDG": -1.93
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "V137A",
+        "DDG": -2.41
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "V143A",
+        "DDG": -3.25
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "V145A",
+        "DDG": -1.92
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "V21A",
+        "DDG": -2.33
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "V21I",
+        "DDG": -0.4
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "V21L",
+        "DDG": -1.23
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "V3A",
+        "DDG": -2.55
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "V3I",
+        "DDG": -0.31
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1DIVA",
+        "MUT": "V3L",
+        "DDG": -2.21
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1EKGA",
+        "MUT": "L198C",
+        "DDG": -1.0
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1EKGA",
+        "MUT": "L200C",
+        "DDG": -2.0
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1EKGA",
+        "MUT": "L203C",
+        "DDG": 1.0
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1EKGA",
+        "MUT": "S181F",
+        "DDG": -2.6
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FRDA",
+        "MUT": "H42R",
+        "DDG": 2.0
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FT8A",
+        "MUT": "I264V",
+        "DDG": -0.64
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FT8A",
+        "MUT": "L212V",
+        "DDG": -1.38
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FT8A",
+        "MUT": "L238I",
+        "DDG": -0.35
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FT8A",
+        "MUT": "L267I",
+        "DDG": -0.11
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FT8A",
+        "MUT": "L293I",
+        "DDG": -0.8
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FT8A",
+        "MUT": "L293V",
+        "DDG": -1.41
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FT8A",
+        "MUT": "L315A",
+        "DDG": -1.65
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FT8A",
+        "MUT": "L317I",
+        "DDG": -0.85
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FT8A",
+        "MUT": "L348I",
+        "DDG": -0.53
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FT8A",
+        "MUT": "L349I",
+        "DDG": 0.05
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FT8A",
+        "MUT": "M216L",
+        "DDG": 0.27
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FT8A",
+        "MUT": "S339A",
+        "DDG": 0.32
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FT8A",
+        "MUT": "V287A",
+        "DDG": -0.16
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FXAA",
+        "MUT": "E94D",
+        "DDG": -1.1
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FXAA",
+        "MUT": "E94K",
+        "DDG": -0.4
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FXAA",
+        "MUT": "E94Q",
+        "DDG": 0.6
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FXAA",
+        "MUT": "E95K",
+        "DDG": 1.0
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FXAA",
+        "MUT": "F65A",
+        "DDG": -1.29
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FXAA",
+        "MUT": "F65I",
+        "DDG": -0.9
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FXAA",
+        "MUT": "F65W",
+        "DDG": -0.6
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FXAA",
+        "MUT": "F65Y",
+        "DDG": -0.5
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FXAA",
+        "MUT": "R42A",
+        "DDG": -2.4
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FXAA",
+        "MUT": "R42H",
+        "DDG": -2.0
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1FXAA",
+        "MUT": "T48A",
+        "DDG": 0.1
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "A147K",
+        "DDG": -0.287
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "D160A",
+        "DDG": -0.263
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "D160C",
+        "DDG": -0.096
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "D160E",
+        "DDG": -0.359
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "D160F",
+        "DDG": -0.359
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "D160G",
+        "DDG": -0.669
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "D160H",
+        "DDG": 0.048
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "D160I",
+        "DDG": -0.932
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "D160K",
+        "DDG": -0.335
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "D160L",
+        "DDG": -0.55
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "D160M",
+        "DDG": -0.502
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "D160N",
+        "DDG": 0.072
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "D160P",
+        "DDG": -0.645
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "D160Q",
+        "DDG": -0.478
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "D160R",
+        "DDG": -0.669
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "D160S",
+        "DDG": -0.287
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "D160T",
+        "DDG": -0.741
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "D160V",
+        "DDG": -1.123
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "D160W",
+        "DDG": -0.167
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "D160Y",
+        "DDG": -0.072
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "F136V",
+        "DDG": -3.705
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "N138G",
+        "DDG": 0.765
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "N139K",
+        "DDG": -0.43
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "N139V",
+        "DDG": -2.032
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "Q137N",
+        "DDG": -1.793
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "Q145N",
+        "DDG": 0.263
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1G3PA",
+        "MUT": "R144V",
+        "DDG": 0.765
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "A118G",
+        "DDG": -1.963
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "A118L",
+        "DDG": -1.951
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "A85G",
+        "DDG": -2.149
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "A97G",
+        "DDG": -0.863
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "C81A",
+        "DDG": 0.283
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "C81I",
+        "DDG": -0.912
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "C95A",
+        "DDG": -0.08
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "C96A",
+        "DDG": -1.759
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "C96L",
+        "DDG": -0.043
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "C96M",
+        "DDG": -0.337
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "D117A",
+        "DDG": -0.706
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "D129A",
+        "DDG": -0.855
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "D80A",
+        "DDG": -0.493
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "E104A",
+        "DDG": 0.021
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "E124A",
+        "DDG": -0.101
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "E125A",
+        "DDG": -0.591
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "I58A",
+        "DDG": -3.274
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "I58F",
+        "DDG": -1.299
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "I58L",
+        "DDG": -0.771
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "K109A",
+        "DDG": -0.327
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "L112A",
+        "DDG": -2.593
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "L121A",
+        "DDG": -2.534
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "L126A",
+        "DDG": -3.405
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "L62A",
+        "DDG": -3.46
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "L78A",
+        "DDG": -3.803
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "L82A",
+        "DDG": -3.529
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "L82I",
+        "DDG": -1.6
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "L82V",
+        "DDG": -1.7
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "L86A",
+        "DDG": -3.226
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "L91A",
+        "DDG": -1.575
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "M76A",
+        "DDG": -0.961
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "N56M",
+        "DDG": 0.271
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "N64A",
+        "DDG": -1.14
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "P63A",
+        "DDG": -1.708
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "P93A",
+        "DDG": -0.082
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "Q66A",
+        "DDG": -0.504
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "R100A",
+        "DDG": -0.693
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "R59A",
+        "DDG": 0.178
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "R89L",
+        "DDG": 1.078
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "S77A",
+        "DDG": -1.573
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "S77T",
+        "DDG": 0.581
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "T68A",
+        "DDG": -0.109
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "V128A",
+        "DDG": -3.368
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "V60A",
+        "DDG": -2.251
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "V69A",
+        "DDG": -1.116
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "V70A",
+        "DDG": -1.77
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "V72A",
+        "DDG": -1.052
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "V72I",
+        "DDG": -0.864
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1GUAB",
+        "MUT": "V98A",
+        "DDG": -1.981
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1H0XA",
+        "MUT": "P18A",
+        "DDG": -0.97
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1H0XA",
+        "MUT": "P62A",
+        "DDG": -1.29
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1IOJA",
+        "MUT": "G15A",
+        "DDG": 0.4
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1ITMA",
+        "MUT": "C24T",
+        "DDG": -3.3
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1ITMA",
+        "MUT": "C3T",
+        "DDG": -5.0
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1ITMA",
+        "MUT": "W91S",
+        "DDG": 1.4
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1IV7B",
+        "MUT": "A173C",
+        "DDG": 0.5
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1IV7B",
+        "MUT": "F189C",
+        "DDG": -2.5
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1IV7B",
+        "MUT": "L162C",
+        "DDG": -1.9
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1IV9A",
+        "MUT": "S76Y",
+        "DDG": 4.299
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1J8IA",
+        "MUT": "K25A",
+        "DDG": 0.1
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1J8IA",
+        "MUT": "K66A",
+        "DDG": 0.1
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1J8IA",
+        "MUT": "R23A",
+        "DDG": 0.8
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1J8IA",
+        "MUT": "R35A",
+        "DDG": -0.1
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1J8IA",
+        "MUT": "R43A",
+        "DDG": 0.7
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1J8IA",
+        "MUT": "R9A",
+        "DDG": -0.1
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1JL9A",
+        "MUT": "A25C",
+        "DDG": -1.44
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1JLVA",
+        "MUT": "E64D",
+        "DDG": -1.162
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1JLVA",
+        "MUT": "E64N",
+        "DDG": -2.304
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1JLVA",
+        "MUT": "E64Q",
+        "DDG": -2.302
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1L6HA",
+        "MUT": "F39A",
+        "DDG": -1.697
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1L6HA",
+        "MUT": "Y45A",
+        "DDG": -0.55
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1L6HA",
+        "MUT": "Y48A",
+        "DDG": -1.482
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1LVMA",
+        "MUT": "E106G",
+        "DDG": 1.4
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1LVMA",
+        "MUT": "K45F",
+        "DDG": 0.43
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1LVMA",
+        "MUT": "L56V",
+        "DDG": 0.0
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1LVMA",
+        "MUT": "Q58F",
+        "DDG": 0.6
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1LVMA",
+        "MUT": "S135G",
+        "DDG": 0.0
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1N88A",
+        "MUT": "F21A",
+        "DDG": -1.39
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1N88A",
+        "MUT": "I39A",
+        "DDG": -1.39
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1N88A",
+        "MUT": "I80A",
+        "DDG": -2.79
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1N88A",
+        "MUT": "I89A",
+        "DDG": -2.35
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1N88A",
+        "MUT": "I8V",
+        "DDG": -1.52
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1N88A",
+        "MUT": "L13A",
+        "DDG": -1.52
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1N88A",
+        "MUT": "L57A",
+        "DDG": -1.11
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1N88A",
+        "MUT": "V12A",
+        "DDG": -1.45
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1N88A",
+        "MUT": "V30A",
+        "DDG": -2.84
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1N88A",
+        "MUT": "V43A",
+        "DDG": -2.82
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1N88A",
+        "MUT": "V49A",
+        "DDG": -2.83
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1N88A",
+        "MUT": "V51A",
+        "DDG": -3.24
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1N88A",
+        "MUT": "V54A",
+        "DDG": -3.73
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1N88A",
+        "MUT": "V81A",
+        "DDG": -2.82
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1N88A",
+        "MUT": "V83A",
+        "DDG": -3.1
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1N88A",
+        "MUT": "Y18A",
+        "DDG": 0.06
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1N88A",
+        "MUT": "Y26A",
+        "DDG": -4.61
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1NM1A",
+        "MUT": "D187N",
+        "DDG": -0.88
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1NM1A",
+        "MUT": "D187Y",
+        "DDG": -1.9
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1O6XA",
+        "MUT": "A31G",
+        "DDG": -0.85
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1O6XA",
+        "MUT": "A50G",
+        "DDG": -1.55
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1O6XA",
+        "MUT": "D38A",
+        "DDG": 0.18
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1O6XA",
+        "MUT": "E14A",
+        "DDG": -0.35
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1O6XA",
+        "MUT": "E20G",
+        "DDG": -1.21
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1O6XA",
+        "MUT": "F39L",
+        "DDG": -1.99
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1O6XA",
+        "MUT": "F65A",
+        "DDG": -1.29
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1O6XA",
+        "MUT": "H51A",
+        "DDG": -0.7
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1O6XA",
+        "MUT": "I15V",
+        "DDG": -0.47
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1O6XA",
+        "MUT": "I23V",
+        "DDG": 0.16
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1O6XA",
+        "MUT": "I71V",
+        "DDG": -1.41
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1O6XA",
+        "MUT": "I75A",
+        "DDG": -1.6
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1O6XA",
+        "MUT": "K41A",
+        "DDG": -2.14
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1O6XA",
+        "MUT": "L26V",
+        "DDG": -1.14
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1O6XA",
+        "MUT": "N58A",
+        "DDG": -0.24
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1O6XA",
+        "MUT": "Q60G",
+        "DDG": -0.45
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1O6XA",
+        "MUT": "V12A",
+        "DDG": -1.45
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1O6XA",
+        "MUT": "V52A",
+        "DDG": -1.09
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1O6XA",
+        "MUT": "V64G",
+        "DDG": -0.8
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1O6XA",
+        "MUT": "Y73L",
+        "DDG": -2.94
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1R2YA",
+        "MUT": "R244E",
+        "DDG": -4.2
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1XXNA",
+        "MUT": "N181R",
+        "DDG": 0.358
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1XXNA",
+        "MUT": "N32D",
+        "DDG": -0.86
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1XXNA",
+        "MUT": "N54E",
+        "DDG": -0.645
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1XXNA",
+        "MUT": "S22E",
+        "DDG": 0.239
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "1XXNA",
+        "MUT": "S27E",
+        "DDG": -0.645
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2ARFA",
+        "MUT": "H1069Q",
+        "DDG": -0.717
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2C9QA",
+        "MUT": "Y79F",
+        "DDG": -0.012
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2C9QA",
+        "MUT": "Y79W",
+        "DDG": -1.233
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2H3FA",
+        "MUT": "E12A",
+        "DDG": 1.07
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "A22G",
+        "DDG": -0.32
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "A26G",
+        "DDG": -1.79
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "A36G",
+        "DDG": -1.55
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "A39G",
+        "DDG": -1.59
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "A42G",
+        "DDG": -0.33
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "A46G",
+        "DDG": -0.55
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "A49G",
+        "DDG": -0.22
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "D23A",
+        "DDG": -0.03
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "D23N",
+        "DDG": -0.79
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "D8A",
+        "DDG": -1.3
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "D8N",
+        "DDG": -0.38
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "E17A",
+        "DDG": -1.69
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "E17Q",
+        "DDG": -0.33
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "E38A",
+        "DDG": -0.41
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "E38Q",
+        "DDG": -0.68
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "E48Q",
+        "DDG": 0.07
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "F31A",
+        "DDG": -2.84
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "F5L",
+        "DDG": -1.15
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "G24A",
+        "DDG": 0.02
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "G34A",
+        "DDG": -1.02
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "I18A",
+        "DDG": -2.05
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "I18V",
+        "DDG": -0.07
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "I37A",
+        "DDG": -1.28
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "I37V",
+        "DDG": 0.09
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "I4V",
+        "DDG": -0.59
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "K10E",
+        "DDG": 0.13
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "K10M",
+        "DDG": 0.47
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "K12A",
+        "DDG": 0.61
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "K12G",
+        "DDG": 0.03
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "K12M",
+        "DDG": 1.8
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "K14A",
+        "DDG": -0.73
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "K14G",
+        "DDG": -1.3
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "K14M",
+        "DDG": -0.34
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "K15G",
+        "DDG": -1.74
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "K15M",
+        "DDG": -0.44
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "K7M",
+        "DDG": 0.21
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "L30A",
+        "DDG": -2.76
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "L35A",
+        "DDG": -1.21
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "L44A",
+        "DDG": -1.73
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "L47A",
+        "DDG": -0.84
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "L6A",
+        "DDG": -3.1
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "M1A",
+        "DDG": -1.46
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "T40S",
+        "DDG": -0.8
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "V21A",
+        "DDG": -2.33
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "V3A",
+        "DDG": -2.55
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2HBBA",
+        "MUT": "V9A",
+        "DDG": -1.81
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2LTBA",
+        "MUT": "L558P",
+        "DDG": -1.57
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2LTBA",
+        "MUT": "L569R",
+        "DDG": -3.11
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2LTBA",
+        "MUT": "M619K",
+        "DDG": -3.34
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2LTBA",
+        "MUT": "R533Q",
+        "DDG": -1.1
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2LTBA",
+        "MUT": "R555Q",
+        "DDG": -0.36
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2LTBA",
+        "MUT": "R555W",
+        "DDG": 1.79
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2M5SA",
+        "MUT": "D302A",
+        "DDG": -4.0
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2M5SA",
+        "MUT": "H305A",
+        "DDG": -2.0
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2N7ZA",
+        "MUT": "P88A",
+        "DDG": -0.6
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2NTEA",
+        "MUT": "I738V",
+        "DDG": -2.0
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2NTEA",
+        "MUT": "R658C",
+        "DDG": -2.3
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "A22G",
+        "DDG": -2.43
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "A27P",
+        "DDG": 0.1
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "A27V",
+        "DDG": -0.83
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "A34G",
+        "DDG": -2.17
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "A34V",
+        "DDG": 1.47
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "A43G",
+        "DDG": -2.54
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "A47G",
+        "DDG": -3.1
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "A49G",
+        "DDG": -1.32
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "A51G",
+        "DDG": -3.12
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "A66G",
+        "DDG": -0.49
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "D52A",
+        "DDG": -1.21
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "D52G",
+        "DDG": -2.14
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "D64A",
+        "DDG": -0.2
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "E35A",
+        "DDG": -0.59
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "E46G",
+        "DDG": -1.19
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "E46I",
+        "DDG": -1.08
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "E60A",
+        "DDG": -0.23
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "F26A",
+        "DDG": -3.12
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "F26L",
+        "DDG": -0.68
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "F36A",
+        "DDG": -4.15
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "F36L",
+        "DDG": -3.12
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "F40G",
+        "DDG": -3.08
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "F40L",
+        "DDG": -0.38
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "F76L",
+        "DDG": -3.34
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "F76V",
+        "DDG": -3.73
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "G29A",
+        "DDG": -1.52
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "G29V",
+        "DDG": -2.53
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "G38A",
+        "DDG": -2.08
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "G59A",
+        "DDG": -2.23
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "G69A",
+        "DDG": -2.04
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "I20A",
+        "DDG": -4.9
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "I20V",
+        "DDG": -0.56
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "I25A",
+        "DDG": -1.37
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "I25V",
+        "DDG": -0.47
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "I74A",
+        "DDG": -4.72
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "I74V",
+        "DDG": -1.69
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "K21A",
+        "DDG": -0.92
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "K37A",
+        "DDG": -0.88
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "K42G",
+        "DDG": 0.16
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "K55A",
+        "DDG": 0.58
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "K56A",
+        "DDG": 0.35
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "K68A",
+        "DDG": -0.09
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "K75A",
+        "DDG": -0.45
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "L24A",
+        "DDG": -3.12
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "L54A",
+        "DDG": -2.44
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "L72A",
+        "DDG": -3.77
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "N23A",
+        "DDG": -1.87
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "N28A",
+        "DDG": -1.78
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "N58A",
+        "DDG": -0.24
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "N73A",
+        "DDG": -1.73
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "S30A",
+        "DDG": -0.3
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "S45A",
+        "DDG": 0.41
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "S45G",
+        "DDG": -0.82
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "T19A",
+        "DDG": -1.63
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "T31A",
+        "DDG": -1.17
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "T33A",
+        "DDG": -1.11
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "T39A",
+        "DDG": -1.25
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "T44A",
+        "DDG": -1.09
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "T53G",
+        "DDG": -0.17
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "T62A",
+        "DDG": -0.97
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "T71A",
+        "DDG": -1.83
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "V18A",
+        "DDG": -1.22
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "V63A",
+        "DDG": -0.92
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "V65A",
+        "DDG": -1.14
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "Y48A",
+        "DDG": -2.82
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "Y50A",
+        "DDG": -2.46
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "Y70A",
+        "DDG": -1.66
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2PTLA",
+        "MUT": "Y70L",
+        "DDG": 0.43
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "D15A",
+        "DDG": 0.3
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "D38A",
+        "DDG": 0.18
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "D39A",
+        "DDG": -2.2
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "D39N",
+        "DDG": -2.6
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "E40Q",
+        "DDG": -0.1
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "E41G",
+        "DDG": -0.4
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "I36A",
+        "DDG": -0.9
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "I36V",
+        "DDG": -0.3
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "K14A",
+        "DDG": -0.4
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "K14G",
+        "DDG": -1.9
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "K19A",
+        "DDG": -0.3
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "K28A",
+        "DDG": -0.6
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "L13A",
+        "DDG": -0.5
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "L16A",
+        "DDG": -1.3
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "L8A",
+        "DDG": -2.0
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "Q12A",
+        "DDG": -0.6
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "Q12G",
+        "DDG": -2.0
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "Q33A",
+        "DDG": 0.1
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "R34A",
+        "DDG": -0.8
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "S23A",
+        "DDG": -0.6
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "S6A",
+        "DDG": 0.1
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "S6G",
+        "DDG": -0.2
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "T9S",
+        "DDG": 0.1
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "V10A",
+        "DDG": -0.1
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "V10G",
+        "DDG": -0.7
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "V11A",
+        "DDG": 0.4
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "V11G",
+        "DDG": 0.1
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "V24A",
+        "DDG": -0.5
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2WQGA",
+        "MUT": "Y5F",
+        "DDG": -2.4
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2ZTAA",
+        "MUT": "E11Q",
+        "DDG": -0.74
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2ZTAA",
+        "MUT": "E20Q",
+        "DDG": 0.2
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2ZTAA",
+        "MUT": "E22Q",
+        "DDG": -1.83
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2ZTAA",
+        "MUT": "K15A",
+        "DDG": -0.41
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2ZTAA",
+        "MUT": "K27A",
+        "DDG": -0.91
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2ZTAA",
+        "MUT": "K28A",
+        "DDG": -0.06
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2ZTAA",
+        "MUT": "K8A",
+        "DDG": -0.39
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "2ZTAA",
+        "MUT": "R25A",
+        "DDG": -1.66
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3BN0A",
+        "MUT": "I20V",
+        "DDG": -1.506
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3C2IA",
+        "MUT": "D156E",
+        "DDG": -0.88
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3C2IA",
+        "MUT": "F155S",
+        "DDG": -0.43
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3C2IA",
+        "MUT": "L100V",
+        "DDG": -1.11
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3C2IA",
+        "MUT": "P152R",
+        "DDG": -1.46
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3C2IA",
+        "MUT": "R106Q",
+        "DDG": -0.12
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3C2IA",
+        "MUT": "R106W",
+        "DDG": -0.04
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3C2IA",
+        "MUT": "R111G",
+        "DDG": 0.43
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3C2IA",
+        "MUT": "R133C",
+        "DDG": -0.37
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3C2IA",
+        "MUT": "R133H",
+        "DDG": -0.24
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3C2IA",
+        "MUT": "S134C",
+        "DDG": -1.05
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3C2IA",
+        "MUT": "T158A",
+        "DDG": -0.47
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3C2IA",
+        "MUT": "T158M",
+        "DDG": -0.25
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3D3BA",
+        "MUT": "D118A",
+        "DDG": -0.65
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3D3BA",
+        "MUT": "D118E",
+        "DDG": -0.6
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3D3BA",
+        "MUT": "D118K",
+        "DDG": -1.6
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3D3BA",
+        "MUT": "D118N",
+        "DDG": -1.34
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3D3BA",
+        "MUT": "D118R",
+        "DDG": -1.41
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "A131G",
+        "DDG": -1.7
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "A139G",
+        "DDG": -2.3
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "A165G",
+        "DDG": -0.9
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "A168G",
+        "DDG": -0.3
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "D145A",
+        "DDG": -2.1
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "D145N",
+        "DDG": -0.9
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "D162N",
+        "DDG": -2.0
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "D164A",
+        "DDG": -2.3
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "D164G",
+        "DDG": -3.7
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "D164N",
+        "DDG": -1.9
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "E141A",
+        "DDG": -0.7
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "E141Q",
+        "DDG": -0.4
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "I146A",
+        "DDG": -2.7
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "I146V",
+        "DDG": -1.2
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "I163V",
+        "DDG": -0.5
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "L159A",
+        "DDG": -2.0
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "L159G",
+        "DDG": -1.9
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "L159V",
+        "DDG": -0.6
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "L167A",
+        "DDG": -1.2
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "L167V",
+        "DDG": -0.2
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "V135A",
+        "DDG": -1.5
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "V144A",
+        "DDG": -2.0
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "V149A",
+        "DDG": -2.8
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "V149G",
+        "DDG": -4.1
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "V158A",
+        "DDG": -3.2
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3DV0I",
+        "MUT": "Y138F",
+        "DDG": -2.0
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3L15B",
+        "MUT": "Y442H",
+        "DDG": -3.23
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3MONB",
+        "MUT": "R39G",
+        "DDG": 1.194
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3MONB",
+        "MUT": "W3C",
+        "DDG": -2.866
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3S4MA",
+        "MUT": "D122Y",
+        "DDG": -1.3
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3S4MA",
+        "MUT": "G130V",
+        "DDG": -2.5
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3S4MA",
+        "MUT": "I154F",
+        "DDG": 0.096
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "3S4MA",
+        "MUT": "W155R",
+        "DDG": -0.693
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "4BUQA",
+        "MUT": "Y137A",
+        "DDG": 0.89
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "4BUQA",
+        "MUT": "Y48A",
+        "DDG": -1.435
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "4HE7A",
+        "MUT": "A19D",
+        "DDG": -0.24
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "4HE7A",
+        "MUT": "A19G",
+        "DDG": 0.06
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "4HE7A",
+        "MUT": "A19K",
+        "DDG": -0.46
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "5JXBA",
+        "MUT": "D329G",
+        "DDG": -1.44
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "5JXBA",
+        "MUT": "D329P",
+        "DDG": -1.44
+    },
+    {
+        "SET": "TEST_KORPM",
+        "CLID": "S461",
+        "PDB": "5OAQA",
+        "MUT": "Y429H",
+        "DDG": -2.99
+    }
+]
